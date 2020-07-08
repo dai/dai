@@ -36,20 +36,20 @@ Linkedin
 
 // repository `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いて単一のプロファイル及びLink集ページなどとして活用させる試みです
 
-- [github.com/dai](https://github.com/dai)
+[github.com/dai](https://github.com/dai)
 
-// ユーザーページ
+:  :arrow_up_small: ユーザーページ
 
-- [github.com/dai/dai](https://github.com/dai/dai)
+[github.com/dai/dai](https://github.com/dai/dai)
 
-// このrepository
+:    :arrow_up_small:このrepository
 
-- [dai.github.io/dai](https://dai.github.io/dai)
+[dai.github.io/dai](https://dai.github.io/dai)
 
-// このrepositoryのGithub page
+:   :arrow_up_small:このrepositoryのGithub page
 
-詳細は以下をご参照ください | see bellow
+詳細は以下をご参照ください (see also please refference bellow)
 
-https://dev.to/web/design-github-profile-using-readme-md-8al
+[https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8a)
 
 14:00 8th, July 2020 JST
