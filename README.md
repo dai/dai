@@ -1,8 +1,8 @@
 # dai
 
-現在開発中のGithub新機能用repogitory。
+現在開発中のGithub新機能用repository。
 
-// repogitory `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いてGithub Profileページをスタイリングする機能
+// repository `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いてGithub Profileページをスタイリングする機能
 
 詳細は以下をご参照ください | see bellow
 
