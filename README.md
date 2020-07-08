@@ -1,13 +1,5 @@
 # dai
 
-現在開発中のGithub新機能用repository。
-
-// repository `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いてGithub Profileページをスタイリングする機能
-
-詳細は以下をご参照ください | see bellow
-
-https://dev.to/web/design-github-profile-using-readme-md-8al
-
 ## get in touch
 
 Twitter
@@ -38,4 +30,26 @@ Linkedin
 
 :   [osada](http://linkedin.com/in/osada)
 
-11:00 8th, July 2020 JST
+## Wht's this page
+
+現在開発中のGithub新機能用repository。
+
+// repository `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いて単一のプロファイル及びLink集ページなどとして活用させる試みです
+
+- [github.com/dai](https://github.com/dai)
+
+// ユーザーページ
+
+- [github.com/dai/dai](https://github.com/dai/dai)
+
+// このrepository
+
+- [dai.github.io/dai](https://dai.github.io/dai)
+
+// このrepositoryのGithub page
+
+詳細は以下をご参照ください | see bellow
+
+https://dev.to/web/design-github-profile-using-readme-md-8al
+
+14:00 8th, July 2020 JST
