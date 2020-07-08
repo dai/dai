@@ -1,9 +1,11 @@
 # dai
 
 現在開発中のGithub新機能用repogitory。
+
 // repogitory `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いてGithub Profileページをスタイリングする機能
 
 詳細は以下をご参照ください | see bellow
+
 https://dev.to/web/design-github-profile-using-readme-md-8al
 
 ## get in touch
@@ -36,4 +38,4 @@ Linkedin
 
 :   [osada](http://linkedin.com/in/osada)
 
-8th, July 2020 JST
+11:00 8th, July 2020 JST
