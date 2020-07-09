@@ -2,33 +2,24 @@
 
 ## get in touch
 
-Twitter
-
-:   [daisuke](http://twitter.com/daisuke)
-
-hey
-
-:   [daisuke](https://app.hey.com)
-
-Telegram
-
-:   [daiskeh](https://t.me/daiskeh)
-
-Facebook
-
-:   [daiskeh](https://facebook.com/daiskeh)
-
-Niantic Platform
-
-:   [daiskeh]()
-
-Intsgram
-
-:   [daisukeosada](https://instagram.com/daisukeosada)
-
-Linkedin
-
-:   [osada](http://linkedin.com/in/osada)
+- Twitter
+   [daisuke](https://twitter.com/daisuke)
+- [hey](https://app.hey.com)
+   daisuke
+- Medium
+   [daisuke](https://medium.com/@daisuke)
+- ProductHunt
+   [daisuke](https://producthunt.com/daisuke)
+- Telegram
+   [daiskeh](https://t.me/daiskeh)
+- Facebook
+   [daiskeh](https://facebook.com/daiskeh)
+- Niantic Platform
+   daiskeh
+- Intsgram
+   [daisukeosada](https://instagram.com/daisukeosada)
+- Linkedin
+   [osada](https://linkedin.com/in/osada)
 
 ## Wht's this page
 
@@ -52,4 +43,4 @@ Linkedin
 
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8a)
 
-14:00 8th, July 2020 JST
+08:00 9th, July 2020 JST
