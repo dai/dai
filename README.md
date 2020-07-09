@@ -8,6 +8,9 @@
 🛎 [hey](https://app.hey.com)
 :   ⏩  daisuke
 
+🛎 AngelList
+:   ⏩[daisuke](https://angel.co/p/daisuke)
+
 🛎 Medium
 :   ⏩ [daisuke](https://medium.com/@daisuke)
 
