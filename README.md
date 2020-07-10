@@ -20,7 +20,7 @@
 
 🛎 ProductHunt
 
-   ⏩ [daisuke](https://producthunt.com/daisuke)
+   ⏩ [daisuke](https://producthunt.com/@daisuke)
 
 🛎 Telegram
 
