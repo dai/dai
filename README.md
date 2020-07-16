@@ -10,8 +10,8 @@
 [![](https://icongr.am/simple/producthunt.svg?size=24&color=currentColor&colored=false)](https://producthunt.com/) [@daisuke](https://producthunt.com/@daisuke)
 
 [![](https://icongr.am/simple/telegram.svg?size=24&color=currentColor&colored=false)](https://t.me) [daiskeh](https://t.me/daiskeh)
-[![https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false]](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
-[![https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false]]() [daiskeh]() NIA Social
+[![](https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false)](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
+[![](https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false)]() [daiskeh]() (NIA)
 
 [![](https://icongr.am/simple/instagram.svg?size=24&color=currentColor&colored=false)](https://instagram.com) [daisukeosada](https://instagram.com/daisukeosada)
 
