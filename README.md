@@ -1,5 +1,3 @@
-# 連絡先
-
 ## get in touch
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
@@ -10,12 +8,16 @@
 [![](https://icongr.am/simple/producthunt.svg?size=24&color=currentColor&colored=false)](https://producthunt.com/) [@daisuke](https://producthunt.com/@daisuke)
 
 [![](https://icongr.am/simple/telegram.svg?size=24&color=currentColor&colored=false)](https://t.me) [daiskeh](https://t.me/daiskeh)
-[![](https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false)](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
-[![](https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false)]() [daiskeh]() (NIA)
+[![https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false]](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
+[![https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false]]() daiskeh NIA Social
 
 [![](https://icongr.am/simple/instagram.svg?size=24&color=currentColor&colored=false)](https://instagram.com) [daisukeosada](https://instagram.com/daisukeosada)
 
 [![](https://icongr.am/simple/linkedin.svg?size=24&color=currentColor&colored=false)](https://linkedin.com) [osada](https://linkedin.com/in/osada)
+
+[![](https://icongr.am/simple/mdnwebdocs.svg?size=24&color=currentColor&colored=false)](https://developer.mozilla.org) [dai](https://developer.mozilla.org/ja/profiles/dai)
+
+[![](https://icongr.am/simple/hatenabookmark.svg?size=24&color=currentColor&colored=false)](https://b.hatena.ne.jp/) [barlog](https://b.hatena.ne.jp/barlog/)
 
 ## What's this page
 
