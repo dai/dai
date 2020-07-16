@@ -3,24 +3,15 @@
 ## get in touch
 
 🛎 Twitter
-
-   ⏩ [daisuke](https://twitter.com/daisuke)
-
+:   ⏩ [daisuke](https://twitter.com/daisuke)
 🛎 [Hey](https://app.hey.com)
-
-   ⏩ daisuke
-
+:   ⏩ daisuke
 🛎 AngelList
-
-   ⏩ [daisuke](https://angel.co/p/daisuke)
-
+:   ⏩ [daisuke](https://angel.co/p/daisuke)
 🛎 Medium
-
-   ⏩ [daisuke](https://medium.com/@daisuke)
-
+:   ⏩ [daisuke](https://medium.com/@daisuke)
 🛎 ProductHunt
-
-   ⏩ [daisuke](https://producthunt.com/@daisuke)
+:   ⏩ [daisuke](https://producthunt.com/@daisuke)
 
 🛎 Telegram
 
