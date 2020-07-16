@@ -2,9 +2,9 @@
 
 ## get in touch
 
-- [https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false](https://twitter.com/daisuke) [daisuke](https://twitter.com/daisuke)
-- [https://icongr.am/simple/basecamp.svg?size=24&color=currentColor&colored=false](https://app.hey.com) daisuke
-- [https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false](https://angel.co) [daisuke](https://angel.co/p/daisuke)
+![https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false](https://twitter.com/daisuke) [daisuke](https://twitter.com/daisuke)
+![https://icongr.am/simple/basecamp.svg?size=24&color=currentColor&colored=false](https://app.hey.com) daisuke
+![https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 - Medium
 :   ⏩ [daisuke](https://medium.com/@daisuke)
 - ProductHunt
