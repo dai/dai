@@ -9,25 +9,13 @@
 [![](https://icongr.am/simple/medium.svg?size=24&color=currentColor&colored=false)](https://medium.com/) [@daisuke](https://medium.com/@daisuke)
 [![](https://icongr.am/simple/producthunt.svg?size=24&color=currentColor&colored=false)](https://producthunt.com/) [@daisuke](https://producthunt.com/@daisuke)
 
-🛎 Telegram
+[![](https://icongr.am/simple/telegram.svg?size=24&color=currentColor&colored=false)](https://t.me) [daiskeh](https://t.me/daiskeh)
+[![https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false]](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
+[![https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false]]() [daiskeh]() NIA Social
 
-   ⏩ [daiskeh](https://t.me/daiskeh)
+[![](https://icongr.am/simple/instagram.svg?size=24&color=currentColor&colored=false)](https://instagram.com) [daisukeosada](https://instagram.com/daisukeosada)
 
-🛎 Facebook
-
-   ⏩ [daiskeh](https://facebook.com/daiskeh)
-
-🛎 Niantic Social
-
-   ⏩ daiskeh
-
-🛎 Instagram
-
-   ⏩ [daisukeosada](https://instagram.com/daisukeosada)
-
-🛎 Linkedin
-
-   ⏩ [osada](https://linkedin.com/in/osada)
+[![](https://icongr.am/simple/linkedin.svg?size=24&color=currentColor&colored=false)](https://linkedin.com) [osada](https://linkedin.com/in/osada)
 
 ## What's this page
 
@@ -51,4 +39,4 @@
 
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
 
-15:00 9th, July 2020 JST
+10:00 16th, July 2020 JST
