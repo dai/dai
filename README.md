@@ -1,6 +1,6 @@
 ## get in touch
 
-[![](https://github.com/dai/dai/assets/hey-24-24.jpg)](https://app.hey.com) daisuke at hey.com
+[![](https://raw.githubusercontent.com/dai/dai/master/assets/hey-24-24.jpg)](https://app.hey.com) daisuke at hey.com
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
