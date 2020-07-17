@@ -1,7 +1,7 @@
 ## get in touch
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
-[![](https://icongr.am/simple/basecamp.svg?size=24&color=currentColor&colored=false)](https://app.hey.com) daisuke
+[![](assets/hey-24-24.jpg)](https://app.hey.com) daisuke at hey.com
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
 [![](https://icongr.am/simple/medium.svg?size=24&color=currentColor&colored=false)](https://medium.com/) [@daisuke](https://medium.com/@daisuke)
