@@ -1,4 +1,4 @@
-## get in touch
+## 📫 get in touch
 
 [![](https://raw.githubusercontent.com/dai/dai/master/assets/hey-24-24.jpg)](https://app.hey.com) daisuke at hey.com
 
@@ -19,6 +19,12 @@
 [![](https://icongr.am/simple/mdnwebdocs.svg?size=24&color=currentColor&colored=false)](https://developer.mozilla.org) [dai](https://developer.mozilla.org/ja/profiles/dai)
 
 [![](https://icongr.am/simple/hatenabookmark.svg?size=24&color=currentColor&colored=false)](https://b.hatena.ne.jp/) [barlog](https://b.hatena.ne.jp/barlog/)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## What's this page
 
