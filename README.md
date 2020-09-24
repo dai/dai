@@ -26,7 +26,9 @@
 
 <!--END_SECTION:activity-->
 
-## What's this page
+* * * 
+
+### What's this page
 
 現在開発中のGithub新機能用repository。
 
@@ -48,4 +50,4 @@
 
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
 
-10:00 16th, July 2020 JST
+10:00 24th, Sep 2020 JST
