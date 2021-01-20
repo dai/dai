@@ -1,7 +1,5 @@
 ## 📫 get in touch
 
-[![](https://raw.githubusercontent.com/dai/dai/master/assets/hey-24-24.jpg)](https://app.hey.com) daisuke at hey.com
-
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
@@ -50,7 +48,6 @@
 
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
 
-10:00 24th, Sep 2020 JST
 10:00 20th, Jan 2021 JST
 
 ## License
