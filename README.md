@@ -21,7 +21,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-https://github-contribution-graph.ez4o.com/?username=dai&last_120_days
+https://github-contribution-graph.ez4o.com/?username=dai&last_120_days=110&img_url=https%3A%2F%2Fp4.wallpaperbetter.com%2Fwallpaper%2F975%2F421%2F110%2Fwindows-10-black-4k-8k-wallpaper-preview.jpg
 <!--END_SECTION:activity-->
 
 * * * 
