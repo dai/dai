@@ -3,7 +3,7 @@
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
-[mastodon social](https://mastodon.social/@dai)
+<a rel="me" href="https://mastodon.social/@dai">@dai@mastodon.social</a>
 
 [![](https://icongr.am/simple/medium.svg?size=24&color=currentColor&colored=false)](https://medium.com/) [@daisuke](https://medium.com/@daisuke)
 [![](https://icongr.am/simple/producthunt.svg?size=24&color=currentColor&colored=false)](https://producthunt.com/) [@daisuke](https://producthunt.com/@daisuke)
