@@ -10,7 +10,7 @@
 
 [![](https://icongr.am/simple/telegram.svg?size=24&color=currentColor&colored=false)](https://t.me) [daiskeh](https://t.me/daiskeh)
 [![](https://icongr.am/simple/facebook.svg?size=24&color=currentColor&colored=false)](https://facebook.com) [daiskeh](https://facebook.com/daiskeh)
-![](https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false) [daiskeh]([https://community.ingress.com/jp/profile/discussions/daiskeh](https://my.nianticlabs.com/profile/E:SGCIGWVRODG5Z6EIEXSJMAMNLLT4X4X5MMVL4UBIRRGGAJIU4RIA)) (NIA Social)
+![](https://icongr.am/simple/pokémon.svg?size=24&color=currentColor&colored=false) [daiskeh](https://my.nianticlabs.com/profile/E:SGCIGWVRODG5Z6EIEXSJMAMNLLT4X4X5MMVL4UBIRRGGAJIU4RIA) (NIA Social)
 
 [![](https://icongr.am/simple/instagram.svg?size=24&color=currentColor&colored=false)](https://instagram.com) [daisukeosada](https://instagram.com/daisukeosada)
 
