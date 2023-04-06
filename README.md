@@ -1,5 +1,7 @@
 ## 📫 get in touch
 
+Bluesky: [dai](https://bsky.app/profile/dai.bsky.social)
+
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
@@ -46,7 +48,7 @@
 
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
 
-10:00 20th, Jan 2021 JST
+10:00 7th, Apr 2023 JST
 
 ## License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
