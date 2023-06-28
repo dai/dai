@@ -1,6 +1,10 @@
 ## 📫 get in touch
 
-Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
+- Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
+- T2: [dai](https://t2.social/dai)
+- cohost: [dai](https://cohost.org/dai)
+
+28 Jun, 2023
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
