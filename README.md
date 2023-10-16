@@ -1,9 +1,5 @@
 ## 📫 get in touch
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dai&hide=stars,commits)
-
-
-
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
 - Pebble(T2): [dai](https://pebble.is/dai)
 - cohost: [dai](https://cohost.org/dai)
