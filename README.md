@@ -1,11 +1,15 @@
 ## 📫 get in touch
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dai&show_icons=true&theme=radical)
+
+
+
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
 - Pebble(T2): [dai](https://pebble.is/dai)
 - cohost: [dai](https://cohost.org/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
 
-7 Sep, 2023
+16 Oct, 2023
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
