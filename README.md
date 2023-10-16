@@ -1,6 +1,6 @@
 ## 📫 get in touch
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dai)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dai&hide=stars,commits)
 
 
 
