@@ -1,9 +1,11 @@
 ## 📫 get in touch
 
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
-- Pebble(T2): [dai](https://pebble.is/dai)
 - cohost: [dai](https://cohost.org/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
+- SPILL: [dai](https://spill.com/p/dai)
+
+- ~Pebble(T2): [dai](https://pebble.is/dai)~
 
 16 Oct, 2023
 
