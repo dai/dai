@@ -3,16 +3,14 @@
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
 - cohost: [dai](https://cohost.org/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
-- SPILL: [dai](https://spill.com/p/dai)
-
-- ~Pebble(T2): [dai](https://pebble.is/dai)~
+- <a rel="me" href="https://mastodon.social/@dai">@dai@mastodon.social</a> Mastodon.
+- Pebble(T2): [dai](https://pebble.social/deck/@dai) re: on mastodon.
 
 16 Oct, 2023
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
-<a rel="me" href="https://mastodon.social/@dai">at dai at mastodon dot social</a>
 
 [![](https://icongr.am/simple/medium.svg?size=24&color=currentColor&colored=false)](https://medium.com/) [@daisuke](https://medium.com/@daisuke)
 [![](https://icongr.am/simple/producthunt.svg?size=24&color=currentColor&colored=false)](https://producthunt.com/) [@daisuke](https://producthunt.com/@daisuke)
