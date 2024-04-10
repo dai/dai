@@ -54,6 +54,7 @@
 [https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
 
 10:00 7th, Apr 2023 JST
+10:00 10th, Apr 2024 JST (GMT+9)
 
 ## License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
