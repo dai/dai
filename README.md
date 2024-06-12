@@ -1,12 +1,12 @@
 ## 📫 get in touch
 
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
-- cohost: [dai](https://cohost.org/dai)
+- mozilla: [dai](https://people.mozilla.org/p/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
 - <a rel="me" href="https://mastodon.social/deck/@dai">@dai</a> Mastodon.social
 - Pebble(T2): [dai](https://pebble.social/deck/@dai) re: on mastodon
 
-22 Nov, 2023
+13, Jun 2024
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
