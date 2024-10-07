@@ -4,7 +4,8 @@
 - mozilla: [dai](https://people.mozilla.org/p/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
 - <a rel="me" href="https://mastodon.social/deck/@dai">@dai</a> Mastodon.social
-- Pebble(T2): [dai](https://pebble.social/deck/@dai) re: on mastodon
+- <a rel="me" href="https://w3c.social/@dai">@dai</a> w3c.social
+- Follow: [dai](https://app.follow.is/profile/@dai)
 
 13, Jun 2024
 
@@ -25,36 +26,18 @@
 
 [![](https://icongr.am/simple/mdnwebdocs.svg?size=24&color=currentColor&colored=false)](https://developer.mozilla.org) [dai](https://developer.mozilla.org/ja/profiles/dai)
 
+- Pebble(T2): [dai](https://pebble.social/deck/@dai) re: on mastodon
+
 [![](https://icongr.am/simple/hatenabookmark.svg?size=24&color=currentColor&colored=false)](https://b.hatena.ne.jp/) [barlog](https://b.hatena.ne.jp/barlog/)
 
-### :zap: Recent Activity
 
 * * * 
 
-### What's this page
+changelog: 
 
-現在開発中のGithub新機能用repository。
-
-// repository `github.com/ユーザー名/ユーザー名`, Github pages `ユーザー名.github.io/ユーザー名` に設置するREADME.mdを用いて単一のプロファイル及びLink集ページなどとして活用させる試みです
-
-[github.com/dai](https://github.com/dai)
-
-   :arrow_up_small: ユーザーページ
-
-[github.com/dai/dai](https://github.com/dai/dai)
-
-   :arrow_up_small:このrepository
-
-[dai.github.io/dai](https://dai.github.io/dai)
-
-   :arrow_up_small:このrepositoryのGithub page
-
-詳細は以下をご参照ください (see also please reference bellow)
-
-[https://dev.to/web/design-github-profile-using-readme-md-8al](https://dev.to/web/design-github-profile-using-readme-md-8al)
-
-10:00 7th, Apr 2023 JST
-10:00 10th, Apr 2024 JST (GMT+9)
+`10:00 7th, Oct 2024 JST`
+`10:00 7th, Apr 2023 JST`
+`10:00 10th, Apr 2024 JST (GMT+9)`
 
 ## License
 The source code is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
