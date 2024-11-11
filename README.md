@@ -5,6 +5,7 @@
 - Keybase: [daisuke](https://keybase.io/daisuke)
 - <a rel="me" href="https://mastodon.social/deck/@dai">@dai</a> Mastodon.social
 - <a rel="me" href="https://w3c.social/@dai">@dai</a> w3c.social
+- <a rel="me" href="https://verified.coop/@dai">Mastodon</a> verified
 - Follow: [dai](https://app.follow.is/profile/@dai)
 
 13, Jun 2024
