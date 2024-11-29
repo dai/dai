@@ -8,8 +8,6 @@
 - <a rel="me" href="https://verified.coop/@dai">Mastodon</a> verified
 - Follow: [dai](https://app.follow.is/profile/@dai)
 
-13, Jun 2024
-
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
 
@@ -27,14 +25,12 @@
 
 [![](https://icongr.am/simple/mdnwebdocs.svg?size=24&color=currentColor&colored=false)](https://developer.mozilla.org) [dai](https://developer.mozilla.org/ja/profiles/dai)
 
-- Pebble(T2): [dai](https://pebble.social/deck/@dai) re: on mastodon
-
 [![](https://icongr.am/simple/hatenabookmark.svg?size=24&color=currentColor&colored=false)](https://b.hatena.ne.jp/) [barlog](https://b.hatena.ne.jp/barlog/)
 
 
 * * * 
 
-## Bager
+## my-badges
 
 <!-- my-badges start -->
 <!-- my-badges end -->
@@ -42,6 +38,7 @@
 ## changes 
 
 ```md
+10:00 29th. Nov 2024 JST (UTC+9)
 10:00 10th, Oct 2024 JST (UTC+9)
 10:00 10th, Apr 2024 JST (UTC+9)
 10:00 10th, Apr 2020 JST (UTC+9)
