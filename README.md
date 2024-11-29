@@ -1,5 +1,10 @@
 ## 📫 get in touch
 
+<!-- my-badges start -->
+<a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
+<a href="my-badges/abcd-commit.md"><img src="https://my-badges.github.io/my-badges/abcd-commit.png" alt="One of my commit sha starts with &quot;abcd&quot;." title="One of my commit sha starts with &quot;abcd&quot;." width="64"></a>
+<!-- my-badges end -->
+
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
 - mozilla: [dai](https://people.mozilla.org/p/dai)
 - Keybase: [daisuke](https://keybase.io/daisuke)
@@ -30,10 +35,6 @@
 
 * * * 
 
-## my-badges
-
-<!-- my-badges start -->
-<!-- my-badges end -->
 
 ## changes 
 
