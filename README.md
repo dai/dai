@@ -1,4 +1,4 @@
-## 📫 get in touch
+## Hi, im github digger
 
 ## badges 
 
