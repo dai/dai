@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/my-badges/my-badges/pull/24">#24</a>: This is fine
+- <a href="https://github.com/dai/Follow/pull/1">#1</a>: Merge branch 'RSSNext:dev' into dev
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

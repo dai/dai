@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/antonmedv/damka/commit/20fe4cb12c3f4d57d8942261c63f60e83e9047b1">20fe4cb</a>: chore
+- <a href="https://github.com/dai/commafeed/commit/259e8ad4e5b250c3a5962ad39d90deffb54c8523">259e8ad</a>: chore: translated some strings
+
+Chore: Translated some new strings and reworked some wording.
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

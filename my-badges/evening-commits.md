@@ -4,12 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/google/zx/commit/0705aa1d1651c3b84a014fb7f64d08fe7a6ae0ee">0705aa1</a>
-- <a href="https://github.com/google/zx/commit/5103cc4c20dde940fe92b4ca65f648df2c7204d4">5103cc4</a>
-- <a href="https://github.com/antonmedv/spark/commit/7cf8fc551f1420af444fd520f4fa2b6275dfe700">7cf8fc5</a>
-- <a href="https://github.com/google/zx/commit/c3061ab1333a3b7b25cc8095489357e332fd4b94">c3061ab</a>
-- <a href="https://github.com/expr-lang/expr/commit/da04c55bcbb2709417c056c62531de2f434595f2">da04c55</a>
-- <a href="https://github.com/expr-lang/expr/commit/c72da7bf4db186bd6ca94ca58dc8da83d3bf3495">c72da7b</a>
+- <a href="https://github.com/dai/zenn/commit/f05fd780ea8cb87c1992e7589f5f1f7e9eaa2f9a">f05fd78</a>
+- <a href="https://github.com/dai/djot/commit/f05fd780ea8cb87c1992e7589f5f1f7e9eaa2f9a">f05fd78</a>
+- <a href="https://github.com/dai/d2023/commit/d2e0fe29f466bbde4a39d899de4f4b3f320aee33">d2e0fe2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
