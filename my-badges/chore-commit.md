@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/commafeed/commit/259e8ad4e5b250c3a5962ad39d90deffb54c8523">259e8ad</a>: chore: translated some strings
-
-Chore: Translated some new strings and reworked some wording.
+- <a href="https://github.com/dai/Follow/commit/ff4b71d610abbd4f188f31b5e72a526a2edef5bf">ff4b71d</a>: chore: update some ja.json
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
