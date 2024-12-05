@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/Follow/commit/ff4b71d610abbd4f188f31b5e72a526a2edef5bf">ff4b71d</a>: chore: update some ja.json
+- <a href="https://github.com/dai/Follow/commit/9efa617fa966eb9b1e4e2603c77f03aa1e2a1212">9efa617</a>: chore(locales): update Japanese translations with new entry actions and settings
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
