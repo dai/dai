@@ -73,7 +73,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>: chore: Update Japanese locale files and improve translations (#2010)\n\n* chore: update ja.json\r\n\r\n* chore: update 6 ja.json files\r\n\r\nchore: update and bump 6 ja.json files.\r\n\r\n* chore: update error/ja.json\r\n\r\nfix locale/error/ja.json\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update app/ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json and tested local.\r\n\r\n* chore: update ja.json\r\n\r\nupdate settings/ja.json\r\n\r\n* feat(i18n): update Japanese locale files with new error messages and dialog options\r\n\r\n* chore(vscode): set default formatter for JSON and JSONC files\r\n\r\n* Remove JSON and JSONC formatter settings\r\n\r\nso sorry, @hyoban 😢\r\n\r\nPerhaps my local settings are in. I have restored it to the original. Thanks for your kindness. \r\nYou have always been a great help.\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update ja.json\r\n\r\nsync and update settings/ja.json\r\n\r\n* chore: update Japanese translations for clarity and consistency\r\n\r\n* chore: update some ja.json\r\n\r\n* chore(locales): update Japanese translations with new entry actions and settings\r\n\r\n---------\r\n\r\nCo-authored-by: dai <dai@users.noreply.github.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c\">06c7730</a>: chore: Update 3 ja.json (#2107)\n\n* chore: update ja.json\r\n\r\n* chore: update 6 ja.json files\r\n\r\nchore: update and bump 6 ja.json files.\r\n\r\n* chore: update error/ja.json\r\n\r\nfix locale/error/ja.json\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update app/ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json and tested local.\r\n\r\n* chore: update ja.json\r\n\r\nupdate settings/ja.json\r\n\r\n* feat(i18n): update Japanese locale files with new error messages and dialog options\r\n\r\n* chore(vscode): set default formatter for JSON and JSONC files\r\n\r\n* Remove JSON and JSONC formatter settings\r\n\r\nso sorry, @hyoban 😢\r\n\r\nPerhaps my local settings are in. I have restored it to the original. Thanks for your kindness. \r\nYou have always been a great help.\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update ja.json\r\n\r\nsync and update settings/ja.json\r\n\r\n* chore: update Japanese translations for clarity and consistency\r\n\r\n* chore: update some ja.json\r\n\r\n* chore(locales): update Japanese translations with new entry actions and settings\r\n\r\n---------\r\n\r\nCo-authored-by: dai <dai@users.noreply.github.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -108,14 +108,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 214 times)\n2. chore: (used 102 times)\n3. added (used 71 times)\n4. readme.md (used 70 times)\n5. ja.json (used 59 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 248 times)\n2. chore: (used 131 times)\n3. ja.json (used 78 times)\n4. added (used 71 times)\n5. readme.md (used 70 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>\n- <a href=\"https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e\">d9bf02d</a>\n- <a href=\"https://github.com/dai/Follow/commit/ad60986f4ce2dd6e4ec806713540cf99e925f005\">ad60986</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c\">06c7730</a>\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>\n- <a href=\"https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e\">d9bf02d</a>\n- <a href=\"https://github.com/dai/Follow/commit/ad60986f4ce2dd6e4ec806713540cf99e925f005\">ad60986</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {

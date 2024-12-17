@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308">a5ad956</a>: chore: Update Japanese locale files and improve translations (#2010)
+- <a href="https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c">06c7730</a>: chore: Update 3 ja.json (#2107)
 
 * chore: update ja.json
 
