@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5">88458bd</a>
 - <a href="https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c">06c7730</a>
 - <a href="https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308">a5ad956</a>
 - <a href="https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e">d9bf02d</a>
