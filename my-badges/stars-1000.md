@@ -4,31 +4,23 @@
 
 Repos:
 
-* <a href="https://github.com/winglang/wing">winglang/wing: ★5083</a>
+* <a href="https://github.com/winglang/wing">winglang/wing: ★5084</a>
 * <a href="https://github.com/winglang/polycons">winglang/polycons: ★12</a>
 * <a href="https://github.com/dai/nicegram.github.io">dai/nicegram.github.io: ★3</a>
-* <a href="https://github.com/dai/dai">dai/dai: ★3</a>
 * <a href="https://github.com/mozilla-japan/hacking-runcible">mozilla-japan/hacking-runcible: ★2</a>
-* <a href="https://github.com/dai/djot">dai/djot: ★2</a>
+* <a href="https://github.com/dai/dai">dai/dai: ★2</a>
 * <a href="https://github.com/dai/autopagerize">dai/autopagerize: ★1</a>
 * <a href="https://github.com/dai/wysihat">dai/wysihat: ★1</a>
 * <a href="https://github.com/dai/jquery-timeago">dai/jquery-timeago: ★1</a>
 * <a href="https://github.com/dai/noty">dai/noty: ★1</a>
 * <a href="https://github.com/dai/httpie">dai/httpie: ★1</a>
-* <a href="https://github.com/dai/drawic">dai/drawic: ★1</a>
-* <a href="https://github.com/dai/fuelux">dai/fuelux: ★1</a>
-* <a href="https://github.com/dai/dih5ja">dai/dih5ja: ★1</a>
-* <a href="https://github.com/dai/crowy">dai/crowy: ★1</a>
 * <a href="https://github.com/dai/GiphyLabs">dai/GiphyLabs: ★1</a>
-* <a href="https://github.com/dai/daux.io">dai/daux.io: ★1</a>
 * <a href="https://github.com/dai/node-oniguruma">dai/node-oniguruma: ★1</a>
-* <a href="https://github.com/dai/MarkdownEditing">dai/MarkdownEditing: ★1</a>
 * <a href="https://github.com/dai/Boxel">dai/Boxel: ★1</a>
 * <a href="https://github.com/dai/middleman-casper">dai/middleman-casper: ★1</a>
-* <a href="https://github.com/dai/co">dai/co: ★1</a>
-* <a href="https://github.com/dai/github-slideshow">dai/github-slideshow: ★1</a>
 * <a href="https://github.com/dai/osada">dai/osada: ★1</a>
 * <a href="https://github.com/dai/links.dev">dai/links.dev: ★1</a>
+* <a href="https://github.com/dai/djot">dai/djot: ★1</a>
 * <a href="https://github.com/dai/thorium-reader-doc">dai/thorium-reader-doc: ★1</a>
 * <a href="https://github.com/dai/xd-AntiSpy">dai/xd-AntiSpy: ★1</a>
 * <a href="https://github.com/dai/jlreq">dai/jlreq: ★1</a>
