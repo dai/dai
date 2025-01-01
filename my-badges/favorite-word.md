@@ -7,8 +7,8 @@ My favorite commit message words are:
 1. update (used 288 times)
 2. chore: (used 161 times)
 3. ja.json (used 96 times)
-4. added (used 73 times)
-5. readme.md (used 73 times)
+4. readme.md (used 74 times)
+5. added (used 73 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
