@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/winglang/wing">winglang/wing: ★5107</a>
+* <a href="https://github.com/winglang/wing">winglang/wing: ★5108</a>
 * <a href="https://github.com/winglang/polycons">winglang/polycons: ★12</a>
 * <a href="https://github.com/dai/nicegram.github.io">dai/nicegram.github.io: ★3</a>
 * <a href="https://github.com/mozilla-japan/hacking-runcible">mozilla-japan/hacking-runcible: ★2</a>
@@ -20,6 +20,7 @@ Repos:
 * <a href="https://github.com/dai/middleman-casper">dai/middleman-casper: ★1</a>
 * <a href="https://github.com/dai/osada">dai/osada: ★1</a>
 * <a href="https://github.com/dai/links.dev">dai/links.dev: ★1</a>
+* <a href="https://github.com/dai/suki">dai/suki: ★1</a>
 * <a href="https://github.com/dai/djot">dai/djot: ★1</a>
 * <a href="https://github.com/dai/thorium-reader-doc">dai/thorium-reader-doc: ★1</a>
 * <a href="https://github.com/dai/xd-AntiSpy">dai/xd-AntiSpy: ★1</a>
