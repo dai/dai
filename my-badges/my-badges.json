@@ -73,7 +73,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/c72c576f328b573d6eb8232dec5d0d6b86a36624\">c72c576</a>: chore(locales): multiple updates to the Japanese localization files across various parts of the application. (#2345)\n\n* chore: update ja.json\r\n\r\n* chore: update 6 ja.json files\r\n\r\nchore: update and bump 6 ja.json files.\r\n\r\n* chore: update error/ja.json\r\n\r\nfix locale/error/ja.json\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update app/ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json and tested local.\r\n\r\n* chore: update ja.json\r\n\r\nupdate settings/ja.json\r\n\r\n* feat(i18n): update Japanese locale files with new error messages and dialog options\r\n\r\n* chore(vscode): set default formatter for JSON and JSONC files\r\n\r\n* Remove JSON and JSONC formatter settings\r\n\r\nso sorry, @hyoban 😢\r\n\r\nPerhaps my local settings are in. I have restored it to the original. Thanks for your kindness. \r\nYou have always been a great help.\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update ja.json\r\n\r\nsync and update settings/ja.json\r\n\r\n* chore: update Japanese translations for clarity and consistency\r\n\r\n* chore: update some ja.json\r\n\r\n* chore(locales): update Japanese translations with new entry actions and settings\r\n\r\n* fix: update Japanese translations for user actions and login prompts\r\n\r\n* feat(locales): add Japanese translations for login and registration features\r\n\r\n---------\r\n\r\nCo-authored-by: dai <dai@users.noreply.github.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/settings-global/commit/45b9dabf9946d9176967914189eccfe0a18d22ef\">45b9dab</a>: chore: add japanese version\n\nTranslate the Copilot instructions to Japanese.\n\n* Change the title to \"Copilotプロジェクト構造ワークフローの指示\"\n* Translate the sample instructions to \"いくつかのサンプル指示がそのまま残ります...\"\n* Translate \"Package (js): `.`\" to \"パッケージ (js): `.`\"\n* Translate \"Package (js): `sample-js-project`\" to \"パッケージ (js): `sample-js-project`\"\n* Translate \"Package (js): `sample-ts-project`\" to \"パッケージ (js): `sample-ts-project`\"\n* Translate \"Package (py): `sample-python-project`\" to \"パッケージ (py): `sample-python-project`\"\n\n---\n\nFor more details, open the [Copilot Workspace session](https://copilot-workspace.githubnext.com/dai/settings-global?shareId=XXXX-XXXX-XXXX-XXXX).",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -108,14 +108,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 375 times)\n2. chore: (used 178 times)\n3. ja.json (used 132 times)\n4. japanese (used 99 times)\n5. readme.md (used 86 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 380 times)\n2. chore: (used 178 times)\n3. ja.json (used 132 times)\n4. japanese (used 100 times)\n5. readme.md (used 87 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/6ed05cea8bff558930a94c0742abb3d350580e54\">6ed05ce</a>\n- <a href=\"https://github.com/dai/Follow/commit/c72c576f328b573d6eb8232dec5d0d6b86a36624\">c72c576</a>\n- <a href=\"https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5\">88458bd</a>\n- <a href=\"https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c\">06c7730</a>\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>\n- <a href=\"https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e\">d9bf02d</a>\n- <a href=\"https://github.com/dai/Follow/commit/ad60986f4ce2dd6e4ec806713540cf99e925f005\">ad60986</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/settings-global/commit/45b9dabf9946d9176967914189eccfe0a18d22ef\">45b9dab</a>\n- <a href=\"https://github.com/dai/Follow/commit/6ed05cea8bff558930a94c0742abb3d350580e54\">6ed05ce</a>\n- <a href=\"https://github.com/dai/Follow/commit/c72c576f328b573d6eb8232dec5d0d6b86a36624\">c72c576</a>\n- <a href=\"https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5\">88458bd</a>\n- <a href=\"https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c\">06c7730</a>\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>\n- <a href=\"https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e\">d9bf02d</a>\n- <a href=\"https://github.com/dai/Follow/commit/ad60986f4ce2dd6e4ec806713540cf99e925f005\">ad60986</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
