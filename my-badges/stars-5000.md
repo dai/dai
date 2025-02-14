@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/winglang/wing">winglang/wing: ★5145</a>
+* <a href="https://github.com/winglang/wing">winglang/wing: ★5144</a>
 * <a href="https://github.com/winglang/polycons">winglang/polycons: ★12</a>
 * <a href="https://github.com/dai/nicegram.github.io">dai/nicegram.github.io: ★3</a>
 * <a href="https://github.com/mozilla-japan/hacking-runcible">mozilla-japan/hacking-runcible: ★2</a>
@@ -26,6 +26,7 @@ Repos:
 * <a href="https://github.com/dai/xd-AntiSpy">dai/xd-AntiSpy: ★1</a>
 * <a href="https://github.com/dai/jlreq">dai/jlreq: ★1</a>
 * <a href="https://github.com/dai/new-any">dai/new-any: ★1</a>
+* <a href="https://github.com/dai/jj-notes">dai/jj-notes: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
