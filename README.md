@@ -35,7 +35,6 @@
 - <a rel="me" href="https://w3c.social/@dai">@dai</a> w3c.social
 - <a rel="me" href="https://verified.coop/@dai">Mastodon</a> verified
 - Follow: [dai](https://app.follow.is/profile/@dai)
-- IndieAuth: <a href="https://github.com/dai" rel="me">github.com/dai</a>
 
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
