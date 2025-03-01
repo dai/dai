@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/winglang/wing">winglang/wing: ★5167</a>
+* <a href="https://github.com/winglang/wing">winglang/wing: ★5166</a>
 * <a href="https://github.com/winglang/polycons">winglang/polycons: ★12</a>
 * <a href="https://github.com/dai/nicegram.github.io">dai/nicegram.github.io: ★3</a>
 * <a href="https://github.com/mozilla-japan/hacking-runcible">mozilla-japan/hacking-runcible: ★2</a>
