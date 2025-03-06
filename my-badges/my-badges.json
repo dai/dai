@@ -73,7 +73,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/settings-global/commit/45b9dabf9946d9176967914189eccfe0a18d22ef\">45b9dab</a>: chore: add japanese version\n\nTranslate the Copilot instructions to Japanese.\n\n* Change the title to \"Copilotプロジェクト構造ワークフローの指示\"\n* Translate the sample instructions to \"いくつかのサンプル指示がそのまま残ります...\"\n* Translate \"Package (js): `.`\" to \"パッケージ (js): `.`\"\n* Translate \"Package (js): `sample-js-project`\" to \"パッケージ (js): `sample-js-project`\"\n* Translate \"Package (js): `sample-ts-project`\" to \"パッケージ (js): `sample-ts-project`\"\n* Translate \"Package (py): `sample-python-project`\" to \"パッケージ (py): `sample-python-project`\"\n\n---\n\nFor more details, open the [Copilot Workspace session](https://copilot-workspace.githubnext.com/dai/settings-global?shareId=XXXX-XXXX-XXXX-XXXX).",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/65eed53bfad200e9ac1de8ab33489b495a34b77f\">65eed53</a>: chore: Update README.md\n\nwritten and commited via GHBI (GitHub Browser Interface)",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 390 times)\n2. chore: (used 178 times)\n3. ja.json (used 132 times)\n4. japanese (used 106 times)\n5. readme.md (used 90 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 395 times)\n2. chore: (used 178 times)\n3. ja.json (used 132 times)\n4. japanese (used 106 times)\n5. readme.md (used 96 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -166,5 +166,19 @@
     "desc": "I committed on Friday the 13th, One… By One…",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/3822d1b7ad78797ba2d14cc9838f5916829babaf\">3822d1b</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/2a3f6d576a3899d144c50e706bcfd7e233b47de8\">2a3f6d5</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/2d6601ee26a83c2f6e42f9d31b3afce2d76833af\">2d6601e</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/5687eb2d9c9f583a6d4623dbaf628b7346defbb6\">5687eb2</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/5ebf84ec158c6aeeed3d44b80d3f4473c8680118\">5ebf84e</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/2a0a686e9c3270172177924bb0bfd5449b3653c7\">2a0a686</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/2a0a686e9c3270172177924bb0bfd5449b3653c7\">2a0a686</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]

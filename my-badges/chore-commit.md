@@ -4,20 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/dai/settings-global/commit/45b9dabf9946d9176967914189eccfe0a18d22ef">45b9dab</a>: chore: add japanese version
+- <a href="https://github.com/dai/sandbox/commit/65eed53bfad200e9ac1de8ab33489b495a34b77f">65eed53</a>: chore: Update README.md
 
-Translate the Copilot instructions to Japanese.
-
-* Change the title to "Copilotプロジェクト構造ワークフローの指示"
-* Translate the sample instructions to "いくつかのサンプル指示がそのまま残ります..."
-* Translate "Package (js): `.`" to "パッケージ (js): `.`"
-* Translate "Package (js): `sample-js-project`" to "パッケージ (js): `sample-js-project`"
-* Translate "Package (js): `sample-ts-project`" to "パッケージ (js): `sample-ts-project`"
-* Translate "Package (py): `sample-python-project`" to "パッケージ (py): `sample-python-project`"
-
----
-
-For more details, open the [Copilot Workspace session](https://copilot-workspace.githubnext.com/dai/settings-global?shareId=XXXX-XXXX-XXXX-XXXX).
+written and commited via GHBI (GitHub Browser Interface)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
