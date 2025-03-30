@@ -7,8 +7,8 @@ Repos:
 * <a href="https://github.com/winglang/wing">winglang/wing: ★5192</a>
 * <a href="https://github.com/winglang/polycons">winglang/polycons: ★12</a>
 * <a href="https://github.com/dai/nicegram.github.io">dai/nicegram.github.io: ★3</a>
+* <a href="https://github.com/dai/dai">dai/dai: ★3</a>
 * <a href="https://github.com/mozilla-japan/hacking-runcible">mozilla-japan/hacking-runcible: ★2</a>
-* <a href="https://github.com/dai/dai">dai/dai: ★2</a>
 * <a href="https://github.com/dai/autopagerize">dai/autopagerize: ★1</a>
 * <a href="https://github.com/dai/wysihat">dai/wysihat: ★1</a>
 * <a href="https://github.com/dai/jquery-timeago">dai/jquery-timeago: ★1</a>
@@ -30,6 +30,7 @@ Repos:
 * <a href="https://github.com/dai/thorium-reader-doc">dai/thorium-reader-doc: ★1</a>
 * <a href="https://github.com/dai/xd-AntiSpy">dai/xd-AntiSpy: ★1</a>
 * <a href="https://github.com/dai/jlreq">dai/jlreq: ★1</a>
+* <a href="https://github.com/dai/Follow">dai/Follow: ★1</a>
 * <a href="https://github.com/dai/new-any">dai/new-any: ★1</a>
 * <a href="https://github.com/dai/antonmedv">dai/antonmedv: ★1</a>
 * <a href="https://github.com/dai/am">dai/am: ★1</a>
@@ -37,6 +38,7 @@ Repos:
 * <a href="https://github.com/dai/ao">dai/ao: ★1</a>
 * <a href="https://github.com/dai/ai">dai/ai: ★1</a>
 * <a href="https://github.com/dai/jj-notes">dai/jj-notes: ★1</a>
+* <a href="https://github.com/dai/fred">dai/fred: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
