@@ -40,6 +40,7 @@
 - <a rel="me" href="https://verified.coop/@dai">Mastodon</a> verified
 - Follow: [dai](https://app.follow.is/profile/@dai)
 - omg.lol: <a href="https://dai.omg.lol" rel="me">dai</a>
+- <a rel="me" href="https://hackers.pub/@dai">@dai</a> Hackers' Pub
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
