@@ -1,54 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dai/portfolio-template/commit/a256e36848e7c076118f5bf63bc6fac14b910555\"><strong>a</strong>256e36848e7c076118f5bf63bc6fac14b910555</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/winglang/wing\">winglang/wing: ★5222</a>\n* <a href=\"https://github.com/winglang/polycons\">winglang/polycons: ★12</a>\n* <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io: ★3</a>\n* <a href=\"https://github.com/dai/dai\">dai/dai: ★3</a>\n* <a href=\"https://github.com/mozilla-japan/hacking-runcible\">mozilla-japan/hacking-runcible: ★2</a>\n* <a href=\"https://github.com/dai/autopagerize\">dai/autopagerize: ★1</a>\n* <a href=\"https://github.com/dai/wysihat\">dai/wysihat: ★1</a>\n* <a href=\"https://github.com/dai/jquery-timeago\">dai/jquery-timeago: ★1</a>\n* <a href=\"https://github.com/dai/android\">dai/android: ★1</a>\n* <a href=\"https://github.com/dai/noty\">dai/noty: ★1</a>\n* <a href=\"https://github.com/dai/httpie\">dai/httpie: ★1</a>\n* <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs: ★1</a>\n* <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma: ★1</a>\n* <a href=\"https://github.com/dai/Boxel\">dai/Boxel: ★1</a>\n* <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper: ★1</a>\n* <a href=\"https://github.com/dai/antvis\">dai/antvis: ★1</a>\n* <a href=\"https://github.com/dai/osada\">dai/osada: ★1</a>\n* <a href=\"https://github.com/dai/alinea\">dai/alinea: ★1</a>\n* <a href=\"https://github.com/dai/links.dev\">dai/links.dev: ★1</a>\n* <a href=\"https://github.com/dai/suki\">dai/suki: ★1</a>\n* <a href=\"https://github.com/dai/ai-guide\">dai/ai-guide: ★1</a>\n* <a href=\"https://github.com/dai/djot\">dai/djot: ★1</a>\n* <a href=\"https://github.com/dai/ai.robots.txt\">dai/ai.robots.txt: ★1</a>\n* <a href=\"https://github.com/dai/thorium-reader-doc\">dai/thorium-reader-doc: ★1</a>\n* <a href=\"https://github.com/dai/xd-AntiSpy\">dai/xd-AntiSpy: ★1</a>\n* <a href=\"https://github.com/dai/jlreq\">dai/jlreq: ★1</a>\n* <a href=\"https://github.com/dai/Follow\">dai/Follow: ★1</a>\n* <a href=\"https://github.com/dai/new-any\">dai/new-any: ★1</a>\n* <a href=\"https://github.com/dai/antonmedv\">dai/antonmedv: ★1</a>\n* <a href=\"https://github.com/dai/am\">dai/am: ★1</a>\n* <a href=\"https://github.com/dai/.github\">dai/.github: ★1</a>\n* <a href=\"https://github.com/dai/ao\">dai/ao: ★1</a>\n* <a href=\"https://github.com/dai/ai\">dai/ai: ★1</a>\n* <a href=\"https://github.com/dai/jj-notes\">dai/jj-notes: ★1</a>\n* <a href=\"https://github.com/dai/fred\">dai/fred: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
-    "id": "stars-500",
-    "tier": 2,
-    "desc": "I collected 500 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/winglang/wing\">winglang/wing: ★5222</a>\n* <a href=\"https://github.com/winglang/polycons\">winglang/polycons: ★12</a>\n* <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io: ★3</a>\n* <a href=\"https://github.com/dai/dai\">dai/dai: ★3</a>\n* <a href=\"https://github.com/mozilla-japan/hacking-runcible\">mozilla-japan/hacking-runcible: ★2</a>\n* <a href=\"https://github.com/dai/autopagerize\">dai/autopagerize: ★1</a>\n* <a href=\"https://github.com/dai/wysihat\">dai/wysihat: ★1</a>\n* <a href=\"https://github.com/dai/jquery-timeago\">dai/jquery-timeago: ★1</a>\n* <a href=\"https://github.com/dai/android\">dai/android: ★1</a>\n* <a href=\"https://github.com/dai/noty\">dai/noty: ★1</a>\n* <a href=\"https://github.com/dai/httpie\">dai/httpie: ★1</a>\n* <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs: ★1</a>\n* <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma: ★1</a>\n* <a href=\"https://github.com/dai/Boxel\">dai/Boxel: ★1</a>\n* <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper: ★1</a>\n* <a href=\"https://github.com/dai/antvis\">dai/antvis: ★1</a>\n* <a href=\"https://github.com/dai/osada\">dai/osada: ★1</a>\n* <a href=\"https://github.com/dai/alinea\">dai/alinea: ★1</a>\n* <a href=\"https://github.com/dai/links.dev\">dai/links.dev: ★1</a>\n* <a href=\"https://github.com/dai/suki\">dai/suki: ★1</a>\n* <a href=\"https://github.com/dai/ai-guide\">dai/ai-guide: ★1</a>\n* <a href=\"https://github.com/dai/djot\">dai/djot: ★1</a>\n* <a href=\"https://github.com/dai/ai.robots.txt\">dai/ai.robots.txt: ★1</a>\n* <a href=\"https://github.com/dai/thorium-reader-doc\">dai/thorium-reader-doc: ★1</a>\n* <a href=\"https://github.com/dai/xd-AntiSpy\">dai/xd-AntiSpy: ★1</a>\n* <a href=\"https://github.com/dai/jlreq\">dai/jlreq: ★1</a>\n* <a href=\"https://github.com/dai/Follow\">dai/Follow: ★1</a>\n* <a href=\"https://github.com/dai/new-any\">dai/new-any: ★1</a>\n* <a href=\"https://github.com/dai/antonmedv\">dai/antonmedv: ★1</a>\n* <a href=\"https://github.com/dai/am\">dai/am: ★1</a>\n* <a href=\"https://github.com/dai/.github\">dai/.github: ★1</a>\n* <a href=\"https://github.com/dai/ao\">dai/ao: ★1</a>\n* <a href=\"https://github.com/dai/ai\">dai/ai: ★1</a>\n* <a href=\"https://github.com/dai/jj-notes\">dai/jj-notes: ★1</a>\n* <a href=\"https://github.com/dai/fred\">dai/fred: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-500.png"
-  },
-  {
-    "id": "stars-1000",
-    "tier": 3,
-    "desc": "I collected 1000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/winglang/wing\">winglang/wing: ★5222</a>\n* <a href=\"https://github.com/winglang/polycons\">winglang/polycons: ★12</a>\n* <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io: ★3</a>\n* <a href=\"https://github.com/dai/dai\">dai/dai: ★3</a>\n* <a href=\"https://github.com/mozilla-japan/hacking-runcible\">mozilla-japan/hacking-runcible: ★2</a>\n* <a href=\"https://github.com/dai/autopagerize\">dai/autopagerize: ★1</a>\n* <a href=\"https://github.com/dai/wysihat\">dai/wysihat: ★1</a>\n* <a href=\"https://github.com/dai/jquery-timeago\">dai/jquery-timeago: ★1</a>\n* <a href=\"https://github.com/dai/android\">dai/android: ★1</a>\n* <a href=\"https://github.com/dai/noty\">dai/noty: ★1</a>\n* <a href=\"https://github.com/dai/httpie\">dai/httpie: ★1</a>\n* <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs: ★1</a>\n* <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma: ★1</a>\n* <a href=\"https://github.com/dai/Boxel\">dai/Boxel: ★1</a>\n* <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper: ★1</a>\n* <a href=\"https://github.com/dai/antvis\">dai/antvis: ★1</a>\n* <a href=\"https://github.com/dai/osada\">dai/osada: ★1</a>\n* <a href=\"https://github.com/dai/alinea\">dai/alinea: ★1</a>\n* <a href=\"https://github.com/dai/links.dev\">dai/links.dev: ★1</a>\n* <a href=\"https://github.com/dai/suki\">dai/suki: ★1</a>\n* <a href=\"https://github.com/dai/ai-guide\">dai/ai-guide: ★1</a>\n* <a href=\"https://github.com/dai/djot\">dai/djot: ★1</a>\n* <a href=\"https://github.com/dai/ai.robots.txt\">dai/ai.robots.txt: ★1</a>\n* <a href=\"https://github.com/dai/thorium-reader-doc\">dai/thorium-reader-doc: ★1</a>\n* <a href=\"https://github.com/dai/xd-AntiSpy\">dai/xd-AntiSpy: ★1</a>\n* <a href=\"https://github.com/dai/jlreq\">dai/jlreq: ★1</a>\n* <a href=\"https://github.com/dai/Follow\">dai/Follow: ★1</a>\n* <a href=\"https://github.com/dai/new-any\">dai/new-any: ★1</a>\n* <a href=\"https://github.com/dai/antonmedv\">dai/antonmedv: ★1</a>\n* <a href=\"https://github.com/dai/am\">dai/am: ★1</a>\n* <a href=\"https://github.com/dai/.github\">dai/.github: ★1</a>\n* <a href=\"https://github.com/dai/ao\">dai/ao: ★1</a>\n* <a href=\"https://github.com/dai/ai\">dai/ai: ★1</a>\n* <a href=\"https://github.com/dai/jj-notes\">dai/jj-notes: ★1</a>\n* <a href=\"https://github.com/dai/fred\">dai/fred: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
-  },
-  {
-    "id": "stars-2000",
-    "tier": 4,
-    "desc": "I collected 2000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/winglang/wing\">winglang/wing: ★5222</a>\n* <a href=\"https://github.com/winglang/polycons\">winglang/polycons: ★12</a>\n* <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io: ★3</a>\n* <a href=\"https://github.com/dai/dai\">dai/dai: ★3</a>\n* <a href=\"https://github.com/mozilla-japan/hacking-runcible\">mozilla-japan/hacking-runcible: ★2</a>\n* <a href=\"https://github.com/dai/autopagerize\">dai/autopagerize: ★1</a>\n* <a href=\"https://github.com/dai/wysihat\">dai/wysihat: ★1</a>\n* <a href=\"https://github.com/dai/jquery-timeago\">dai/jquery-timeago: ★1</a>\n* <a href=\"https://github.com/dai/android\">dai/android: ★1</a>\n* <a href=\"https://github.com/dai/noty\">dai/noty: ★1</a>\n* <a href=\"https://github.com/dai/httpie\">dai/httpie: ★1</a>\n* <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs: ★1</a>\n* <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma: ★1</a>\n* <a href=\"https://github.com/dai/Boxel\">dai/Boxel: ★1</a>\n* <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper: ★1</a>\n* <a href=\"https://github.com/dai/antvis\">dai/antvis: ★1</a>\n* <a href=\"https://github.com/dai/osada\">dai/osada: ★1</a>\n* <a href=\"https://github.com/dai/alinea\">dai/alinea: ★1</a>\n* <a href=\"https://github.com/dai/links.dev\">dai/links.dev: ★1</a>\n* <a href=\"https://github.com/dai/suki\">dai/suki: ★1</a>\n* <a href=\"https://github.com/dai/ai-guide\">dai/ai-guide: ★1</a>\n* <a href=\"https://github.com/dai/djot\">dai/djot: ★1</a>\n* <a href=\"https://github.com/dai/ai.robots.txt\">dai/ai.robots.txt: ★1</a>\n* <a href=\"https://github.com/dai/thorium-reader-doc\">dai/thorium-reader-doc: ★1</a>\n* <a href=\"https://github.com/dai/xd-AntiSpy\">dai/xd-AntiSpy: ★1</a>\n* <a href=\"https://github.com/dai/jlreq\">dai/jlreq: ★1</a>\n* <a href=\"https://github.com/dai/Follow\">dai/Follow: ★1</a>\n* <a href=\"https://github.com/dai/new-any\">dai/new-any: ★1</a>\n* <a href=\"https://github.com/dai/antonmedv\">dai/antonmedv: ★1</a>\n* <a href=\"https://github.com/dai/am\">dai/am: ★1</a>\n* <a href=\"https://github.com/dai/.github\">dai/.github: ★1</a>\n* <a href=\"https://github.com/dai/ao\">dai/ao: ★1</a>\n* <a href=\"https://github.com/dai/ai\">dai/ai: ★1</a>\n* <a href=\"https://github.com/dai/jj-notes\">dai/jj-notes: ★1</a>\n* <a href=\"https://github.com/dai/fred\">dai/fred: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-2000.png"
-  },
-  {
-    "id": "stars-5000",
-    "tier": 5,
-    "desc": "I collected 5000 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/winglang/wing\">winglang/wing: ★5222</a>\n* <a href=\"https://github.com/winglang/polycons\">winglang/polycons: ★12</a>\n* <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io: ★3</a>\n* <a href=\"https://github.com/dai/dai\">dai/dai: ★3</a>\n* <a href=\"https://github.com/mozilla-japan/hacking-runcible\">mozilla-japan/hacking-runcible: ★2</a>\n* <a href=\"https://github.com/dai/autopagerize\">dai/autopagerize: ★1</a>\n* <a href=\"https://github.com/dai/wysihat\">dai/wysihat: ★1</a>\n* <a href=\"https://github.com/dai/jquery-timeago\">dai/jquery-timeago: ★1</a>\n* <a href=\"https://github.com/dai/android\">dai/android: ★1</a>\n* <a href=\"https://github.com/dai/noty\">dai/noty: ★1</a>\n* <a href=\"https://github.com/dai/httpie\">dai/httpie: ★1</a>\n* <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs: ★1</a>\n* <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma: ★1</a>\n* <a href=\"https://github.com/dai/Boxel\">dai/Boxel: ★1</a>\n* <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper: ★1</a>\n* <a href=\"https://github.com/dai/antvis\">dai/antvis: ★1</a>\n* <a href=\"https://github.com/dai/osada\">dai/osada: ★1</a>\n* <a href=\"https://github.com/dai/alinea\">dai/alinea: ★1</a>\n* <a href=\"https://github.com/dai/links.dev\">dai/links.dev: ★1</a>\n* <a href=\"https://github.com/dai/suki\">dai/suki: ★1</a>\n* <a href=\"https://github.com/dai/ai-guide\">dai/ai-guide: ★1</a>\n* <a href=\"https://github.com/dai/djot\">dai/djot: ★1</a>\n* <a href=\"https://github.com/dai/ai.robots.txt\">dai/ai.robots.txt: ★1</a>\n* <a href=\"https://github.com/dai/thorium-reader-doc\">dai/thorium-reader-doc: ★1</a>\n* <a href=\"https://github.com/dai/xd-AntiSpy\">dai/xd-AntiSpy: ★1</a>\n* <a href=\"https://github.com/dai/jlreq\">dai/jlreq: ★1</a>\n* <a href=\"https://github.com/dai/Follow\">dai/Follow: ★1</a>\n* <a href=\"https://github.com/dai/new-any\">dai/new-any: ★1</a>\n* <a href=\"https://github.com/dai/antonmedv\">dai/antonmedv: ★1</a>\n* <a href=\"https://github.com/dai/am\">dai/am: ★1</a>\n* <a href=\"https://github.com/dai/.github\">dai/.github: ★1</a>\n* <a href=\"https://github.com/dai/ao\">dai/ao: ★1</a>\n* <a href=\"https://github.com/dai/ai\">dai/ai: ★1</a>\n* <a href=\"https://github.com/dai/jj-notes\">dai/jj-notes: ★1</a>\n* <a href=\"https://github.com/dai/fred\">dai/fred: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-5000.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/.github/commit/32a5c63033edb564b406f5db9b74466939d11ec7\">32a5c63</a>\n- <a href=\"https://github.com/dai/github-mcp-server/commit/308447f8b3d3f221091f9269ae9bac92f89b4a32\">308447f</a>\n- <a href=\"https://github.com/dai/osada/commit/389e6f35f188e77e12d1efeaa86e04802ffe4c2b\">389e6f3</a>\n- <a href=\"https://github.com/dai/osada/commit/25a286b76aa337496845fe8f3851550c9e7e10b7\">25a286b</a>\n- <a href=\"https://github.com/dai/osada/commit/0fa1cea4955e956e221b0b788e204428123ee4cc\">0fa1cea</a>\n- <a href=\"https://github.com/dai/osada/commit/89254b22c98b8cdfbd6a5b277a95b87ba8df8713\">89254b2</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
@@ -68,13 +19,6 @@
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/65eed53bfad200e9ac1de8ab33489b495a34b77f\">65eed53</a>: chore: Update README.md\n\nwritten and commited via GHBI (GitHub Browser Interface)",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "covid-19",
@@ -105,20 +49,6 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 396 times)\n2. chore: (used 178 times)\n3. ja.json (used 132 times)\n4. japanese (used 107 times)\n5. readme.md (used 97 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/jj-notes/commit/0c0ab5f756b4a3619739cba26a2116bd5b228cb2\">0c0ab5f</a>\n- <a href=\"https://github.com/dai/settings-global/commit/45b9dabf9946d9176967914189eccfe0a18d22ef\">45b9dab</a>\n- <a href=\"https://github.com/dai/Follow/commit/6ed05cea8bff558930a94c0742abb3d350580e54\">6ed05ce</a>\n- <a href=\"https://github.com/dai/Follow/commit/c72c576f328b573d6eb8232dec5d0d6b86a36624\">c72c576</a>\n- <a href=\"https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5\">88458bd</a>\n- <a href=\"https://github.com/dai/Follow/commit/06c7730ad46afb77167465cc007a62d831f7ad3c\">06c7730</a>\n- <a href=\"https://github.com/dai/Follow/commit/a5ad956ed2992454e2f4fd68aa1376896cdec308\">a5ad956</a>\n- <a href=\"https://github.com/dai/Follow/commit/d9bf02da85642df4e93ae7847f3140ea356b728e\">d9bf02d</a>\n- <a href=\"https://github.com/dai/Follow/commit/ad60986f4ce2dd6e4ec806713540cf99e925f005\">ad60986</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
     "id": "github-anniversary-15",
     "tier": 0,
     "desc": "I joined GitHub 15 years ago.",
@@ -126,60 +56,11 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
   },
   {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/dai/zenn/commit/dead5694880c65df01f58ce5d414db9978c37e3f\"><strong>dead</strong>5694880c65df01f58ce5d414db9978c37e3f</a>\n- <a href=\"https://github.com/dai/djot/commit/dead5694880c65df01f58ce5d414db9978c37e3f\"><strong>dead</strong>5694880c65df01f58ce5d414db9978c37e3f</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
     "id": "self-star",
     "tier": 0,
     "desc": "I've starred 9 my own repositories.",
     "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5\">88458bd</a>: fix: update Japanese translations for user actions and login prompts (#2188)\n\n* chore: update ja.json\r\n\r\n* chore: update 6 ja.json files\r\n\r\nchore: update and bump 6 ja.json files.\r\n\r\n* chore: update error/ja.json\r\n\r\nfix locale/error/ja.json\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update app/ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json\r\n\r\n* chore: update ja.json and tested local.\r\n\r\n* chore: update ja.json\r\n\r\nupdate settings/ja.json\r\n\r\n* feat(i18n): update Japanese locale files with new error messages and dialog options\r\n\r\n* chore(vscode): set default formatter for JSON and JSONC files\r\n\r\n* Remove JSON and JSONC formatter settings\r\n\r\nso sorry, @hyoban 😢\r\n\r\nPerhaps my local settings are in. I have restored it to the original. Thanks for your kindness. \r\nYou have always been a great help.\r\n\r\n* chore: auto-fix linting and formatting issues\r\n\r\n* chore: update ja.json\r\n\r\nsync and update settings/ja.json\r\n\r\n* chore: update Japanese translations for clarity and consistency\r\n\r\n* chore: update some ja.json\r\n\r\n* chore(locales): update Japanese translations with new entry actions and settings\r\n\r\n* fix: update Japanese translations for user actions and login prompts\r\n\r\n---------\r\n\r\nCo-authored-by: dai <dai@users.noreply.github.com>\n- <a href=\"https://github.com/dai/Follow/commit/3bba5a4ff367b734d75361fe9586b65334b9458a\">3bba5a4</a>: fix: update Japanese translations for user actions and login prompts",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/zenn/commit/b84f5f1183e3e8fd212f0cd725a7eac461822e25\">b84f5f1</a>\n- <a href=\"https://github.com/dai/djot/commit/b84f5f1183e3e8fd212f0cd725a7eac461822e25\">b84f5f1</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dai/Follow/commit/ab54e3380cbd1d7fb47fef3fab29116dcd0fda18\"><strong>ab</strong>54e3380cbd1d7fb47fef3fab29116dcd0fda18</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/3822d1b7ad78797ba2d14cc9838f5916829babaf\">3822d1b</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/2a3f6d576a3899d144c50e706bcfd7e233b47de8\">2a3f6d5</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/2d6601ee26a83c2f6e42f9d31b3afce2d76833af\">2d6601e</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/5687eb2d9c9f583a6d4623dbaf628b7346defbb6\">5687eb2</a>\n- <a href=\"https://github.com/dai/hello-world-javascript-action/commit/5ebf84ec158c6aeeed3d44b80d3f4473c8680118\">5ebf84e</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/2a0a686e9c3270172177924bb0bfd5449b3653c7\">2a0a686</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/sandbox/commit/2a0a686e9c3270172177924bb0bfd5449b3653c7\">2a0a686</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
     "id": "self-upvote",
