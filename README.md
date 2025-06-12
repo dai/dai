@@ -20,10 +20,9 @@
 - Keybase: [daisuke](https://keybase.io/daisuke)
 - <a rel="me" href="https://mastodon.social/deck/@dai">@dai</a> Mastodon.social
 - <a rel="me" href="https://w3c.social/@dai">@dai</a> w3c.social
-- <a rel="me" href="https://verified.coop/@dai">Mastodon</a> verified
-- Follow: [dai](https://app.follow.is/profile/@dai)
-- omg.lol: <a href="https://dai.omg.lol" rel="me">dai</a>
-- <a rel="me" href="https://hackers.pub/@dai">@dai</a> Hackers' Pub
+- Follo: [dai](https://app.follow.is/profile/@dai)
+- omg.lol: <a href="https://dai.omg.lol" rel="nofollow me">dai</a>
+- <a rel="nofollow me" href="https://hackers.pub/@dai">@dai</a> Hackers' Pub
 
 [![](https://icongr.am/simple/twitter.svg?size=24&color=currentColor&colored=false)](https://twitter.com/) [daisuke](https://twitter.com/daisuke)
 [![](https://icongr.am/simple/angellist.svg?size=24&color=currentColor&colored=false)](https://angel.co) [daisuke](https://angel.co/p/daisuke)
