@@ -1,4 +1,4 @@
-## Hi, im github digger
+## Hi, im github digger こんにちは。
 
 ## badges 
 
@@ -21,7 +21,7 @@
 - Keybase: [daisuke](https://keybase.io/daisuke)
 - <a rel="me" href="https://mastodon.social/deck/@dai">@dai</a> Mastodon.social
 - <a rel="me" href="https://w3c.social/@dai">@dai</a> w3c.social
-- Follo: [dai](https://app.follow.is/profile/@dai)
+- Folo: [dai](https://app.follow.is/profile/@dai)
 - omg.lol: <a href="https://dai.omg.lol" rel="nofollow me">dai</a>
 - <a rel="nofollow me" href="https://hackers.pub/@dai">@dai</a> Hackers' Pub
 
