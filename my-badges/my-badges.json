@@ -68,5 +68,12 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/dai/jules-awesome-list/issues/2\">#2</a>: chore: typo",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/builtbybel/xd-AntiSpy/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   }
 ]
