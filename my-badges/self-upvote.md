@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/dai/dai/issues/7">👍</a>
+* <a href="https://github.com/dai/dea/issues/4">👀</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
