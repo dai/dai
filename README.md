@@ -1,4 +1,4 @@
-## Hi, im github digger こんにちは。
+## Hi, I be GitHub Star(gazer)man.<br>こんにちは。
 
 ## badges 
 
@@ -51,8 +51,9 @@
 ## changes 
 
 ```md
-10:00 29th. Nov 2024 JST (UTC+9)
+10:00 19th, Oct 2025 JST (UTC+9)
 10:00 10th, Oct 2024 JST (UTC+9)
+* * * 
 10:00 10th, Apr 2024 JST (UTC+9)
 10:00 10th, Apr 2020 JST (UTC+9)
 ```
