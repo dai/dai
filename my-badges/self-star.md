@@ -13,7 +13,7 @@
 - <a href="https://github.com/dai/suki">dai/suki</a>
 - <a href="https://github.com/dai/remote-mcp-server-authless">dai/remote-mcp-server-authless</a>
 - <a href="https://github.com/dai/LMS-locale">dai/LMS-locale</a>
-- <a href="https://github.com/dai/Follow">dai/Follow</a>
+- <a href="https://github.com/dai/Folo">dai/Folo</a>
 - <a href="https://github.com/dai/anubis">dai/anubis</a>
 - <a href="https://github.com/dai/desktop">dai/desktop</a>
 - <a href="https://github.com/dai/jules-awesome-list">dai/jules-awesome-list</a>

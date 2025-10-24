@@ -38,7 +38,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models\n- <a href=\"https://github.com/dai/Follow/pull/1\">#1</a>: Merge branch 'RSSNext:dev' into dev",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models\n- <a href=\"https://github.com/dai/Folo/pull/1\">#1</a>: Merge branch 'RSSNext:dev' into dev",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "self-star",
     "tier": 0,
     "desc": "I've starred 17 my own repositories.",
-    "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>\n- <a href=\"https://github.com/dai/remote-mcp-server-authless\">dai/remote-mcp-server-authless</a>\n- <a href=\"https://github.com/dai/LMS-locale\">dai/LMS-locale</a>\n- <a href=\"https://github.com/dai/Follow\">dai/Follow</a>\n- <a href=\"https://github.com/dai/anubis\">dai/anubis</a>\n- <a href=\"https://github.com/dai/desktop\">dai/desktop</a>\n- <a href=\"https://github.com/dai/jules-awesome-list\">dai/jules-awesome-list</a>\n- <a href=\"https://github.com/dai/Zero\">dai/Zero</a>\n- <a href=\"https://github.com/dai/djot\">dai/djot</a>",
+    "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>\n- <a href=\"https://github.com/dai/remote-mcp-server-authless\">dai/remote-mcp-server-authless</a>\n- <a href=\"https://github.com/dai/LMS-locale\">dai/LMS-locale</a>\n- <a href=\"https://github.com/dai/Folo\">dai/Folo</a>\n- <a href=\"https://github.com/dai/anubis\">dai/anubis</a>\n- <a href=\"https://github.com/dai/desktop\">dai/desktop</a>\n- <a href=\"https://github.com/dai/jules-awesome-list\">dai/jules-awesome-list</a>\n- <a href=\"https://github.com/dai/Zero\">dai/Zero</a>\n- <a href=\"https://github.com/dai/djot\">dai/djot</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
