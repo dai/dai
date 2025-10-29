@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/sandbox/commit/65eed53bfad200e9ac1de8ab33489b495a34b77f">65eed53</a>: chore: Update README.md
-
-written and commited via GHBI (GitHub Browser Interface)
+- <a href="https://github.com/dai/agents.md/commit/43d7ce9b9866dafc77fb26286fd4b5c071ee6c81">43d7ce9</a>: chore: local test
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

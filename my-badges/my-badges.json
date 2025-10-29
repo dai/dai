@@ -75,5 +75,47 @@
     "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
     "body": "- <a href=\"https://github.com/builtbybel/xd-AntiSpy/issues/42\">#42</a>",
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/dai/skills-build-applications-w-copilot-agent-mode/commit/ac11b60986edc4568b3584f4ecf85f5e915bfa43\"><strong>a</strong>c11b60986edc4568b3584f4ecf85f5e915bfa43</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/agents.md/commit/43d7ce9b9866dafc77fb26286fd4b5c071ee6c81\">43d7ce9</a>: chore: local test",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/LMS-locale/commit/220a36a9a6cd96940dcfa2580549a147675330a2\">220a36a</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"japanese\".",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 48 times)\n2. update (used 35 times)\n3. copilot (used 20 times)\n4. new (used 19 times)\n5. added (used 18 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/LMS-locale/commit/220a36a9a6cd96940dcfa2580549a147675330a2\">220a36a</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/agents.md/commit/c18bc24abe65a514f405f120940f1914449ea519\">c18bc24</a>\n- <a href=\"https://github.com/dai/agents.md/commit/d29e7a9225030eb0ac7438c570b42c6c8feffcde\">d29e7a9</a>\n- <a href=\"https://github.com/dai/jules-awesome-list/commit/31c31fdfb36e47ed0c19e08b568d800c47e361f3\">31c31fd</a>\n- <a href=\"https://github.com/dai/jules-awesome-list/commit/ea4e88c7fa9b0fe6a74f1307f9ce470132a7de31\">ea4e88c</a>\n- <a href=\"https://github.com/dai/jules-awesome-list/commit/84b071b165c851c513ec9ff0fc55c55f2798ed21\">84b071b</a>\n- <a href=\"https://github.com/dai/jules-awesome-list/commit/10e4ceb57e4f818d39caad9f19d35f89f77b7488\">10e4ceb</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]
