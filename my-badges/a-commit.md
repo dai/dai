@@ -2,7 +2,7 @@
 <strong>One of my commit sha starts with &quot;a&quot;.</strong>
 <br><br>
 
-- <a href="https://github.com/dai/skills-build-applications-w-copilot-agent-mode/commit/ac11b60986edc4568b3584f4ecf85f5e915bfa43"><strong>a</strong>c11b60986edc4568b3584f4ecf85f5e915bfa43</a>
+- <a href="https://github.com/dai/desktop/commit/a6ce866adccbc5267cc2249f28312b488ee495f8"><strong>a</strong>6ce866adccbc5267cc2249f28312b488ee495f8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
