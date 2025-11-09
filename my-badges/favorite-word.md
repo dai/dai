@@ -5,7 +5,7 @@
 My favorite commit message words are:
 
 1. japanese (used 48 times)
-2. update (used 34 times)
+2. update (used 30 times)
 3. copilot (used 20 times)
 4. new (used 19 times)
 5. added (used 18 times)
