@@ -80,7 +80,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dai/desktop/commit/a6ce866adccbc5267cc2249f28312b488ee495f8\"><strong>a</strong>6ce866adccbc5267cc2249f28312b488ee495f8</a>",
+    "body": "- <a href=\"https://github.com/dai/LMS-locale/commit/a54a0b3ad137f0da38d1e73e8ea82cd264999a92\"><strong>a</strong>54a0b3ad137f0da38d1e73e8ea82cd264999a92</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"japanese\".",
-    "body": "My favorite commit message words are:\n\n1. japanese (used 48 times)\n2. update (used 30 times)\n3. copilot (used 20 times)\n4. new (used 19 times)\n5. added (used 18 times)",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 42 times)\n2. update (used 29 times)\n3. copilot (used 20 times)\n4. new (used 19 times)\n5. added (used 18 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
