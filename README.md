@@ -1,4 +1,4 @@
-## 🇺🇸Hello.<br>🇯🇵こんにちは。<br>🔋🎗️🍵👩🏻‍🦱😶‍🌫️
+## 🇺🇸Hello.<br>🇯🇵こんにちは。<br>🇪🇸Hola!<br>🇩🇪Guten.
 
 ## badges 
 
