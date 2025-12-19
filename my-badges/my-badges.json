@@ -80,7 +80,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dai/LMS-locale/commit/a54a0b3ad137f0da38d1e73e8ea82cd264999a92\"><strong>a</strong>54a0b3ad137f0da38d1e73e8ea82cd264999a92</a>",
+    "body": "- <a href=\"https://github.com/dai/astro-blog-starter-template/commit/a597e6ef5b63d7cd7fc206fa695321058f86b8cb\"><strong>a</strong>597e6ef5b63d7cd7fc206fa695321058f86b8cb</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -91,25 +91,11 @@
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/LMS-locale/commit/220a36a9a6cd96940dcfa2580549a147675330a2\">220a36a</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"japanese\".",
-    "body": "My favorite commit message words are:\n\n1. japanese (used 41 times)\n2. update (used 29 times)\n3. copilot (used 20 times)\n4. new (used 19 times)\n5. added (used 18 times)",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 22 times)\n2. update (used 10 times)\n3. added (used 10 times)\n4. updated (used 10 times)\n5. merge (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/LMS-locale/commit/220a36a9a6cd96940dcfa2580549a147675330a2\">220a36a</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",

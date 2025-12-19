@@ -4,11 +4,11 @@
 
 My favorite commit message words are:
 
-1. japanese (used 41 times)
-2. update (used 29 times)
-3. copilot (used 20 times)
-4. new (used 19 times)
-5. added (used 18 times)
+1. japanese (used 22 times)
+2. update (used 10 times)
+3. added (used 10 times)
+4. updated (used 10 times)
+5. merge (used 8 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
