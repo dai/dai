@@ -103,5 +103,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/agents.md/commit/c18bc24abe65a514f405f120940f1914449ea519\">c18bc24</a>\n- <a href=\"https://github.com/dai/agents.md/commit/d29e7a9225030eb0ac7438c570b42c6c8feffcde\">d29e7a9</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
   }
 ]
