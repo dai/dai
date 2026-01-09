@@ -38,7 +38,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models\n- <a href=\"https://github.com/dai/Folo/pull/1\">#1</a>: Merge branch 'RSSNext:dev' into dev",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/agents.md/commit/43d7ce9b9866dafc77fb26286fd4b5c071ee6c81\">43d7ce9</a>: chore: local test",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/agent_manager_jp/commit/a53634bdcaf3d956b4a1d99bd5660df2c9ad52b8\">a53634b</a>: chore: fixed a typo\n\nRemove bullet points from feature list in README",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"japanese\".",
-    "body": "My favorite commit message words are:\n\n1. japanese (used 22 times)\n2. update (used 10 times)\n3. added (used 10 times)\n4. updated (used 10 times)\n5. merge (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 22 times)\n2. added (used 11 times)\n3. update (used 10 times)\n4. updated (used 10 times)\n5. readme (used 9 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {

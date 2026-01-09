@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/dai/agents.md/commit/43d7ce9b9866dafc77fb26286fd4b5c071ee6c81">43d7ce9</a>: chore: local test
+- <a href="https://github.com/dai/agent_manager_jp/commit/a53634bdcaf3d956b4a1d99bd5660df2c9ad52b8">a53634b</a>: chore: fixed a typo
+
+Remove bullet points from feature list in README
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
