@@ -6,9 +6,9 @@ My favorite commit message words are:
 
 1. japanese (used 22 times)
 2. update (used 10 times)
-3. added (used 9 times)
-4. merge (used 8 times)
-5. pull (used 8 times)
+3. merge (used 9 times)
+4. pull (used 9 times)
+5. request (used 9 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
