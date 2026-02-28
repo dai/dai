@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/agent_manager_jp/commit/a53634bdcaf3d956b4a1d99bd5660df2c9ad52b8">a53634b</a>: chore: fixed a typo
-
-Remove bullet points from feature list in README
+- <a href="https://github.com/dai/o-sumo/commit/6431a0ec5743a37f282c9948c51e08de4b4a5dbb">6431a0e</a>: chore: auto-update sumo data
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
