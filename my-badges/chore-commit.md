@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/6431a0ec5743a37f282c9948c51e08de4b4a5dbb">6431a0e</a>: chore: auto-update sumo data
+- <a href="https://github.com/dai/o-sumo/commit/19729fc58227b745a5fdd5cbb81a11e2cad1023e">19729fc</a>: chore: update sumo data for March 2026 basho
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

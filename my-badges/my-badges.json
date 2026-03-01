@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/6431a0ec5743a37f282c9948c51e08de4b4a5dbb\">6431a0e</a>: chore: auto-update sumo data",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/19729fc58227b745a5fdd5cbb81a11e2cad1023e\">19729fc</a>: chore: update sumo data for March 2026 basho",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"japanese\".",
-    "body": "My favorite commit message words are:\n\n1. japanese (used 23 times)\n2. add (used 18 times)\n3. updated (used 12 times)\n4. update (used 11 times)\n5. merge (used 10 times)",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 23 times)\n2. add (used 18 times)\n3. update (used 12 times)\n4. updated (used 12 times)\n5. merge (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
