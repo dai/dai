@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/03724d1585ec98fa1b5a98b500151acf5437ccc1\">03724d1</a>: chore: 2026年3月の幕下以上データでsumo-dataを再生成",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/c99c973e3e3cef435c74f5bc6d23830b6d9cdab2\">c99c973</a>: chore: auto-update sumo data",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -103,5 +103,12 @@
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/c99c973e3e3cef435c74f5bc6d23830b6d9cdab2\">c99c973</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   }
 ]

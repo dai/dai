@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/03724d1585ec98fa1b5a98b500151acf5437ccc1">03724d1</a>: chore: 2026年3月の幕下以上データでsumo-dataを再生成
+- <a href="https://github.com/dai/o-sumo/commit/c99c973e3e3cef435c74f5bc6d23830b6d9cdab2">c99c973</a>: chore: auto-update sumo data
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
