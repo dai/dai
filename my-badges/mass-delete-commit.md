@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/c99c973e3e3cef435c74f5bc6d23830b6d9cdab2">c99c973</a>
+- <a href="https://github.com/dai/o-sumo/commit/35e07f807b05475a6568476588e86216410eb3f0">35e07f8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
