@@ -59,7 +59,7 @@
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
-    "body": "* <a href=\"https://github.com/dai/dai/issues/7\">👍</a>\n* <a href=\"https://github.com/dai/dea/issues/4\">👀</a>\n* <a href=\"https://github.com/openclaw/openclaw/pull/8544\">👍</a>",
+    "body": "* <a href=\"https://github.com/dai/dai/issues/7\">👍</a>\n* <a href=\"https://github.com/dai/dea/issues/4\">👀</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/7\">👀</a>\n* <a href=\"https://github.com/openclaw/openclaw/pull/8544\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"japanese\".",
-    "body": "My favorite commit message words are:\n\n1. japanese (used 23 times)\n2. add (used 18 times)\n3. merge (used 17 times)\n4. pull (used 14 times)\n5. request (used 14 times)",
+    "body": "My favorite commit message words are:\n\n1. japanese (used 26 times)\n2. merge (used 20 times)\n3. add (used 18 times)\n4. pull (used 17 times)\n5. request (used 17 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
