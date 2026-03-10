@@ -5,6 +5,7 @@
 * <a href="https://github.com/dai/dai/issues/7">👍</a>
 * <a href="https://github.com/dai/dea/issues/4">👀</a>
 * <a href="https://github.com/dai/o-sumo/pull/7">👀</a>
+* <a href="https://github.com/dai/o-sumo/pull/9">👍</a>
 * <a href="https://github.com/openclaw/openclaw/pull/8544">👍</a>
 
 
