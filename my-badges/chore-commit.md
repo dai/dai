@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/f72d50da0f36509b1470f99071a8fff357f8bf21">f72d50d</a>: chore: auto-update sumo data
+- <a href="https://github.com/dai/o-sumo/commit/6bf924a4b636fe551a968d1df07db007721abbe4">6bf924a</a>: chore: daily sumo data update
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
