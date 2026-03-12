@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 30 times)\n2. pull (used 27 times)\n3. request (used 27 times)\n4. japanese (used 26 times)\n5. update (used 25 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 31 times)\n2. update (used 28 times)\n3. pull (used 28 times)\n4. request (used 28 times)\n5. japanese (used 26 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -110,5 +110,12 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/35e07f807b05475a6568476588e86216410eb3f0\">35e07f8</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]

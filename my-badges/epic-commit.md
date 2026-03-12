@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/LMS-locale/commit/220a36a9a6cd96940dcfa2580549a147675330a2">220a36a</a>
+- <a href="https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95">6dca212</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
