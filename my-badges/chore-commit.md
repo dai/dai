@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/6bf924a4b636fe551a968d1df07db007721abbe4">6bf924a</a>: chore: daily sumo data update
+- <a href="https://github.com/dai/VinaNihon/commit/cf7a00a194fc4fa6c9b69aba3954ed2a9fe6c590">cf7a00a</a>: chore: retrigger pages check
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

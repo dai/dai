@@ -38,7 +38,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/VinaNihon/pull/2\">#2</a>: Streamline translation flow and enable preview deployment\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/6bf924a4b636fe551a968d1df07db007721abbe4\">6bf924a</a>: chore: daily sumo data update",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/cf7a00a194fc4fa6c9b69aba3954ed2a9fe6c590\">cf7a00a</a>: chore: retrigger pages check",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 31 times)\n2. update (used 28 times)\n3. pull (used 28 times)\n4. request (used 28 times)\n5. japanese (used 26 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 37 times)\n2. pull (used 34 times)\n3. request (used 34 times)\n4. update (used 29 times)\n5. add (used 28 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/e6c7042c184676b23d752d99641f901a27768022\">e6c7042</a>: fix: add pages worker index entry after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/780a1d938ee7801f40b2638bd05922529deab16d\">780a1d9</a>: fix: remove redirected pages deploy config after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/0c86f7f83c4c98dedeb56f4709297683f66537c8\">0c86f7f</a>: fix: remove generated wrangler config from pages build",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
