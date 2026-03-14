@@ -59,7 +59,7 @@
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
-    "body": "* <a href=\"https://github.com/dai/dai/issues/7\">👍</a>\n* <a href=\"https://github.com/dai/dea/issues/4\">👀</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/7\">👀</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/9\">👍</a>\n* <a href=\"https://github.com/openclaw/openclaw/pull/8544\">👍</a>",
+    "body": "* <a href=\"https://github.com/dai/dai/issues/7\">👍</a>\n* <a href=\"https://github.com/dai/dea/issues/4\">👀</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/7\">👀</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/9\">👍</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/32\">👍</a>\n* <a href=\"https://github.com/dai/o-sumo/pull/34\">👀</a>\n* <a href=\"https://github.com/openclaw/openclaw/pull/8544\">👍</a>",
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 37 times)\n2. pull (used 34 times)\n3. request (used 34 times)\n4. update (used 29 times)\n5. add (used 28 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 42 times)\n2. pull (used 39 times)\n3. request (used 39 times)\n4. update (used 30 times)\n5. add (used 28 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -124,5 +124,19 @@
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/e6c7042c184676b23d752d99641f901a27768022\">e6c7042</a>: fix: add pages worker index entry after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/780a1d938ee7801f40b2638bd05922529deab16d\">780a1d9</a>: fix: remove redirected pages deploy config after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/0c86f7f83c4c98dedeb56f4709297683f66537c8\">0c86f7f</a>: fix: remove generated wrangler config from pages build",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/ae468e759ea64f1cba81b436b046200e633ef56e\">ae468e7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/735974ddaa62d8394f616d71c0528c3aba648cd0\">735974d</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/3487683e914a4e0dacb5f278fb0ccba4d506fd5b\">3487683</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/dd16b59f1162c9d916ab477ee8ab3bbf2c951e09\">dd16b59</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/47376991956d8196582faccdf752039859e7a947\">4737699</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a4f3b94f143b9e71e866f2dd2ec7710425cde195\">a4f3b94</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/f4a7167ed66edf1a7f452043467bab48c0c419e0\">f4a7167</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/9985ed70d561b1c682a761b0c5ae27219d665b36\">9985ed7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/45f18df2034cd2229553aa3b93e4c4bc4694f570\">45f18df</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/5c04845f9b1c498ab8626917ab97fea48a3bdcf7\">5c04845</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/ae468e759ea64f1cba81b436b046200e633ef56e\">ae468e7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/735974ddaa62d8394f616d71c0528c3aba648cd0\">735974d</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   }
 ]

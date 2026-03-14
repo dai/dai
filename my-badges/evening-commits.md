@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dai/agents.md/commit/c18bc24abe65a514f405f120940f1914449ea519">c18bc24</a>
-- <a href="https://github.com/dai/agents.md/commit/d29e7a9225030eb0ac7438c570b42c6c8feffcde">d29e7a9</a>
+- <a href="https://github.com/dai/o-sumo/commit/ae468e759ea64f1cba81b436b046200e633ef56e">ae468e7</a>
+- <a href="https://github.com/dai/o-sumo/commit/735974ddaa62d8394f616d71c0528c3aba648cd0">735974d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
