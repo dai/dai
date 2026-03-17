@@ -4,7 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/dai/VinaNihon/commit/cf7a00a194fc4fa6c9b69aba3954ed2a9fe6c590">cf7a00a</a>: chore: retrigger pages check
+- <a href="https://github.com/dai/VinaNihon/commit/f108d10ce1f0df96aaa89b00ed9d380af24d6761">f108d10</a>: chore: update dependencies and add favicon support
+- Bump versions for @astrojs/cloudflare, astro, @astrojs/check, and wrangler
+- Add favicon.svg to public directory
+- Update BaseLayout to include favicon links
+- Add footer with author links to index page
+- Enhance global styles for improved UI
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

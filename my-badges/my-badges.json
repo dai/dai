@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/cf7a00a194fc4fa6c9b69aba3954ed2a9fe6c590\">cf7a00a</a>: chore: retrigger pages check",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/f108d10ce1f0df96aaa89b00ed9d380af24d6761\">f108d10</a>: chore: update dependencies and add favicon support\n- Bump versions for @astrojs/cloudflare, astro, @astrojs/check, and wrangler\n- Add favicon.svg to public directory\n- Update BaseLayout to include favicon links\n- Add footer with author links to index page\n- Enhance global styles for improved UI",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 43 times)\n2. pull (used 40 times)\n3. request (used 40 times)\n4. update (used 30 times)\n5. add (used 28 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 46 times)\n2. pull (used 42 times)\n3. request (used 42 times)\n4. add (used 36 times)\n5. update (used 33 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -145,5 +145,19 @@
     "desc": "Happy March 14th! I committed on a Pi Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/bdb4e9e8ccb9f88cefc05e5e380f321d8c7d3f0f\">bdb4e9e</a>",
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/fba5dc29935ff1ffee5feb89681df19e24662766\">fba5dc2</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/f108d10ce1f0df96aaa89b00ed9d380af24d6761\">f108d10</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   }
 ]
