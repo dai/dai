@@ -26,6 +26,7 @@
 <a href="my-badges/pi-day.md"><img src="https://my-badges.github.io/my-badges/pi-day.png" alt="Happy March 14th! I committed on a Pi Day!" title="Happy March 14th! I committed on a Pi Day!" width="64"></a>
 <a href="my-badges/cosmetic-commit.md"><img src="https://my-badges.github.io/my-badges/cosmetic-commit.png" alt="I made cosmetic commit." title="I made cosmetic commit." width="64"></a>
 <a href="my-badges/st-patricks-day.md"><img src="https://my-badges.github.io/my-badges/st-patricks-day.png" alt="I committed on St. Patrick&apos;s Day!" title="I committed on St. Patrick&apos;s Day!" width="64"></a>
+<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <!-- my-badges end -->
 
 - Bluesky: [dai.bsky.social](https://staging.bsky.app/profile/dai.bsky.social)
