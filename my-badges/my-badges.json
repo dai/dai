@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"merge\".",
-    "body": "My favorite commit message words are:\n\n1. merge (used 51 times)\n2. pull (used 46 times)\n3. request (used 46 times)\n4. add (used 40 times)\n5. update (used 35 times)",
+    "body": "My favorite commit message words are:\n\n1. merge (used 52 times)\n2. pull (used 47 times)\n3. request (used 47 times)\n4. add (used 45 times)\n5. update (used 39 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
