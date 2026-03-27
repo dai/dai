@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 55 times)\n2. merge (used 54 times)\n3. pull (used 49 times)\n4. request (used 49 times)\n5. update (used 39 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 65 times)\n2. merge (used 55 times)\n3. pull (used 49 times)\n4. request (used 49 times)\n5. update (used 44 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/0c3647ff53fa160c56657a2488efd2d31d7d2050\">0c3647f</a>\n- <a href=\"https://github.com/dai/ana-lists/commit/7002ff5e0619780483a390c063797f0ff9706907\">7002ff5</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -166,5 +166,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\"><strong>ab</strong>646edb8547f10c78bc044ca5370d8f8a3f03e4</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/cabe8a208b7f92407333d4559d132b8ed3a51a11\">cabe8a2</a>: fix: move client bundle build step before deployment to ensure proper deployment\n- <a href=\"https://github.com/dai/ana-lists/commit/f15e7b7b6cd713228d27ffca668b9bc0c5394791\">f15e7b7</a>: fix: simplify deployment condition and add Cloudflare secrets verification step",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   }
 ]

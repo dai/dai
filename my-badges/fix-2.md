@@ -4,61 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/dai/Follow/commit/88458bd7a3e32854cd5b7b93f36c72f6cf3abac5">88458bd</a>: fix: update Japanese translations for user actions and login prompts (#2188)
-
-* chore: update ja.json
-
-* chore: update 6 ja.json files
-
-chore: update and bump 6 ja.json files.
-
-* chore: update error/ja.json
-
-fix locale/error/ja.json
-
-* chore: auto-fix linting and formatting issues
-
-* chore: update app/ja.json
-
-* chore: update ja.json
-
-* chore: update ja.json
-
-* chore: update ja.json and tested local.
-
-* chore: update ja.json
-
-update settings/ja.json
-
-* feat(i18n): update Japanese locale files with new error messages and dialog options
-
-* chore(vscode): set default formatter for JSON and JSONC files
-
-* Remove JSON and JSONC formatter settings
-
-so sorry, @hyoban 😢
-
-Perhaps my local settings are in. I have restored it to the original. Thanks for your kindness. 
-You have always been a great help.
-
-* chore: auto-fix linting and formatting issues
-
-* chore: update ja.json
-
-sync and update settings/ja.json
-
-* chore: update Japanese translations for clarity and consistency
-
-* chore: update some ja.json
-
-* chore(locales): update Japanese translations with new entry actions and settings
-
-* fix: update Japanese translations for user actions and login prompts
-
----------
-
-Co-authored-by: dai <dai@users.noreply.github.com>
-- <a href="https://github.com/dai/Follow/commit/3bba5a4ff367b734d75361fe9586b65334b9458a">3bba5a4</a>: fix: update Japanese translations for user actions and login prompts
+- <a href="https://github.com/dai/ana-lists/commit/cabe8a208b7f92407333d4559d132b8ed3a51a11">cabe8a2</a>: fix: move client bundle build step before deployment to ensure proper deployment
+- <a href="https://github.com/dai/ana-lists/commit/f15e7b7b6cd713228d27ffca668b9bc0c5394791">f15e7b7</a>: fix: simplify deployment condition and add Cloudflare secrets verification step
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
