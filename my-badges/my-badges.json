@@ -38,7 +38,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/VinaNihon/pull/2\">#2</a>: Streamline translation flow and enable preview deployment\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/VinaNihon/pull/2\">#2</a>: Streamline translation flow and enable preview deployment\n- <a href=\"https://github.com/dai/ana-lists/pull/1\">#1</a>: fix: add GitHub API 429 retry, D1 query optimization, and bookmarklet…\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 65 times)\n2. merge (used 55 times)\n3. pull (used 49 times)\n4. request (used 49 times)\n5. update (used 44 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 90 times)\n2. merge (used 56 times)\n3. pull (used 50 times)\n4. request (used 50 times)\n5. update (used 47 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/cabe8a208b7f92407333d4559d132b8ed3a51a11\">cabe8a2</a>: fix: move client bundle build step before deployment to ensure proper deployment\n- <a href=\"https://github.com/dai/ana-lists/commit/f15e7b7b6cd713228d27ffca668b9bc0c5394791\">f15e7b7</a>: fix: simplify deployment condition and add Cloudflare secrets verification step",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/565e0a07e41cd8206eb8a130450d2fe4a6bfc395\">565e0a0</a>: fix: bookmarklet each star now includes lists array per schema\n\nEach star now has lists:[{githubListId,name,description}] as required\nby parseGithubStarsImport validation. Removed unused memberships field.\nMoved list context extraction before the repo loop.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/1c5f3d2a2cbe7c75ac827b3c40bd9bb6b76d05fc\">1c5f3d2</a>: fix: bookmarklet sends memberships and removes unused lists field from repos\n\nPreviously each repo had a `lists:[]` field and no memberships were sent.\nNow builds memberships array to correctly associate repos with the current\nlist page context. Console log now shows counts for repos/lists/memberships.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/d7242d8dd6fa652a090a7687b596ebdef24d5722\">d7242d8</a>: fix: rewrite buildImportHelper to avoid template literal whitespace issues\n\nUse explicit string concatenation instead of multi-line template literal\nto ensure clean one-liner output with correct bracket balancing.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/da48c5c7374b3984b8da05cd196860ffa2714bae\">da48c5c</a>: fix: update bookmarklet DOM selector to match GitHub stars page structure\n\nUse #user-list-repositories h2 a instead of li + a.text-bold.\nDescription is now extracted from the sibling p element.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
   }
 ]
