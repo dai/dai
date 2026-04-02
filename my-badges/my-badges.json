@@ -38,7 +38,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/VinaNihon/pull/2\">#2</a>: Streamline translation flow and enable preview deployment\n- <a href=\"https://github.com/dai/ana-lists/pull/1\">#1</a>: fix: add GitHub API 429 retry, D1 query optimization, and bookmarklet…\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/dai/mintlify-docs/pull/1\">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳\n- <a href=\"https://github.com/dai/ana-lists/pull/1\">#1</a>: fix: add GitHub API 429 retry, D1 query optimization, and bookmarklet…\n- <a href=\"https://github.com/dai/desktop/pull/1\">#1</a>: Add Japanese README for Atuin Desktop\n- <a href=\"https://github.com/dai/LMS-locale/pull/1\">#1</a>: chore: Update Japanese translations for presets and models",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
@@ -51,8 +51,8 @@
   {
     "id": "self-star",
     "tier": 0,
-    "desc": "I've starred 21 my own repositories.",
-    "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>\n- <a href=\"https://github.com/dai/remote-mcp-server-authless\">dai/remote-mcp-server-authless</a>\n- <a href=\"https://github.com/dai/LMS-locale\">dai/LMS-locale</a>\n- <a href=\"https://github.com/dai/Folo\">dai/Folo</a>\n- <a href=\"https://github.com/dai/anubis\">dai/anubis</a>\n- <a href=\"https://github.com/dai/desktop\">dai/desktop</a>\n- <a href=\"https://github.com/dai/jules-awesome-list\">dai/jules-awesome-list</a>\n- <a href=\"https://github.com/dai/Zero\">dai/Zero</a>\n- <a href=\"https://github.com/dai/djot\">dai/djot</a>\n- <a href=\"https://github.com/dai/cc-switch\">dai/cc-switch</a>\n- <a href=\"https://github.com/dai/tanstack-ai\">dai/tanstack-ai</a>\n- <a href=\"https://github.com/dai/o-sumo\">dai/o-sumo</a>\n- <a href=\"https://github.com/dai/VinaNihon\">dai/VinaNihon</a>",
+    "desc": "I've starred 20 my own repositories.",
+    "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>\n- <a href=\"https://github.com/dai/remote-mcp-server-authless\">dai/remote-mcp-server-authless</a>\n- <a href=\"https://github.com/dai/LMS-locale\">dai/LMS-locale</a>\n- <a href=\"https://github.com/dai/Folo\">dai/Folo</a>\n- <a href=\"https://github.com/dai/anubis\">dai/anubis</a>\n- <a href=\"https://github.com/dai/desktop\">dai/desktop</a>\n- <a href=\"https://github.com/dai/jules-awesome-list\">dai/jules-awesome-list</a>\n- <a href=\"https://github.com/dai/Zero\">dai/Zero</a>\n- <a href=\"https://github.com/dai/djot\">dai/djot</a>\n- <a href=\"https://github.com/dai/cc-switch\">dai/cc-switch</a>\n- <a href=\"https://github.com/dai/tanstack-ai\">dai/tanstack-ai</a>\n- <a href=\"https://github.com/dai/o-sumo\">dai/o-sumo</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
@@ -87,14 +87,14 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/f108d10ce1f0df96aaa89b00ed9d380af24d6761\">f108d10</a>: chore: update dependencies and add favicon support\n- Bump versions for @astrojs/cloudflare, astro, @astrojs/check, and wrangler\n- Add favicon.svg to public directory\n- Update BaseLayout to include favicon links\n- Add footer with author links to index page\n- Enhance global styles for improved UI",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/57a65f719fe54c5ea1a68ddaeb2ec01de486f486\">57a65f7</a>: chore(pwa): PWA依存追加",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 122 times)\n2. co-authored-by: (used 64 times)\n3. update (used 64 times)\n4. claude (used 60 times)\n5. opus (used 60 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 69 times)\n2. update (used 46 times)\n3. merge (used 45 times)\n4. pull (used 41 times)\n5. request (used 41 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,15 +115,8 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/0c3647ff53fa160c56657a2488efd2d31d7d2050\">0c3647f</a>\n- <a href=\"https://github.com/dai/ana-lists/commit/7002ff5e0619780483a390c063797f0ff9706907\">7002ff5</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270\">66c9626</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879\">060d9ff</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/79d70c25d069b883ed9a4bf4fa66c6b5833f2e84\">79d70c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/0c3647ff53fa160c56657a2488efd2d31d7d2050\">0c3647f</a>\n- <a href=\"https://github.com/dai/ana-lists/commit/7002ff5e0619780483a390c063797f0ff9706907\">7002ff5</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/79d70c25d069b883ed9a4bf4fa66c6b5833f2e84\">79d70c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/e6c7042c184676b23d752d99641f901a27768022\">e6c7042</a>: fix: add pages worker index entry after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/780a1d938ee7801f40b2638bd05922529deab16d\">780a1d9</a>: fix: remove redirected pages deploy config after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/0c86f7f83c4c98dedeb56f4709297683f66537c8\">0c86f7f</a>: fix: remove generated wrangler config from pages build",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "friday-13",
@@ -147,27 +140,6 @@
     "image": "https://my-badges.github.io/my-badges/pi-day.png"
   },
   {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/42c3d246357a2dc0aa790febdb66a871da6e2bc4\">42c3d24</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6e9fc7b85954b126b7cc6120ec76d345da818dcf\">6e9fc7b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/70c0e7ce08d856a1ac6d54e08f4015811d219561\">70c0e7c</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/56bda84a51659c2881e325ef1ad9c3f6512bee19\">56bda84</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/01c526bf3c91032678cbf84af54f1a3415f32f29\">01c526b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\">ab646ed</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\"><strong>ab</strong>646edb8547f10c78bc044ca5370d8f8a3f03e4</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
@@ -180,12 +152,5 @@
     "desc": "I did 4 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/565e0a07e41cd8206eb8a130450d2fe4a6bfc395\">565e0a0</a>: fix: bookmarklet each star now includes lists array per schema\n\nEach star now has lists:[{githubListId,name,description}] as required\nby parseGithubStarsImport validation. Removed unused memberships field.\nMoved list context extraction before the repo loop.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/1c5f3d2a2cbe7c75ac827b3c40bd9bb6b76d05fc\">1c5f3d2</a>: fix: bookmarklet sends memberships and removes unused lists field from repos\n\nPreviously each repo had a `lists:[]` field and no memberships were sent.\nNow builds memberships array to correctly associate repos with the current\nlist page context. Console log now shows counts for repos/lists/memberships.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/d7242d8dd6fa652a090a7687b596ebdef24d5722\">d7242d8</a>: fix: rewrite buildImportHelper to avoid template literal whitespace issues\n\nUse explicit string concatenation instead of multi-line template literal\nto ensure clean one-liner output with correct bracket balancing.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/ana-lists/commit/da48c5c7374b3984b8da05cd196860ffa2714bae\">da48c5c</a>: fix: update bookmarklet DOM selector to match GitHub stars page structure\n\nUse #user-list-repositories h2 a instead of li + a.text-bold.\nDescription is now extracted from the sibling p element.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
-  },
-  {
-    "id": "fix-6",
-    "tier": 5,
-    "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/9019ececb2125ba10a113b08a6bf5e4b4a7dbe56\">9019ece</a>: fix: write proper Vietnamese diacritics in UI copy strings\n\nAll Vietnamese UI strings were written without diacritical marks.\nReplace with proper Vietnamese orthography using appropriate\ndiacritics (dấu sắc, huyền, hỏi, ngã, nặng) for each character.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/679c89ed15c61096b68736a56dfaf5731be49765\">679c89e</a>: fix: add Noto Sans Vietnamese weight 400 for proper diacritics\n\nvietnamese.css only includes weight 300. Body text uses font-weight 400/600\nbut no Vietnamese 400 was loaded, causing font fallback to miss Vietnamese glyphs.\nAdd vietnamese-400.css to match regular text weight.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/d3373b1436633db252466a2ccc09c486d2b43c79\">d3373b1</a>: fix: remove Geist Sans from font stack entirely\n\nGeist Sans has no unicode-range restriction and blocks Noto Sans Vietnamese\nfrom rendering diacritics. Remove Geist Sans from --font-sans so Noto Sans\ncovers all characters with proper subsets.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/79da6756577d9270457666849c4cbecb50ad5982\">79da675</a>: fix: use Noto Sans without Geist Sans for Vietnamese UI locale\n\nGeist Sans has no unicode-range restriction so it claims ALL characters,\npreventing Noto Sans Vietnamese (with explicit U+1EA0-1EF9 range)\nfrom ever being matched. For html[lang=\"vi\"], use Noto Sans first\nso Vietnamese diacritics render correctly.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/80f4637f1355cc512938f1711eeef4014e0f7ad4\">80f4637</a>: fix: remove html[lang=\"vi\"] font override that broke Vietnamese rendering\n\nNoto Sans JP is Japanese-only and was blocking Vietnamese glyphs.\nThe vietnamese.css subset already extends Noto Sans with proper diacritics.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/29c266a6cfc80338017529c995b2c9edaa009844\">29c266a</a>: fix: add Noto Sans Vietnamese subset for proper diacritics rendering\n\nAdd @fontsource/noto-sans/vietnamese.css to cover Vietnamese glyphs\n(U+1EA0-1EF9) when UI locale is set to Vietnamese.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
-    "image": "https://my-badges.github.io/my-badges/fix-6.png"
   }
 ]

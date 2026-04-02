@@ -5,7 +5,6 @@
 Pull requests:
 
 - <a href="https://github.com/dai/mintlify-docs/pull/1">#1</a>: 導入セクションのタイトルと説明を日本語に翻訳
-- <a href="https://github.com/dai/VinaNihon/pull/2">#2</a>: Streamline translation flow and enable preview deployment
 - <a href="https://github.com/dai/ana-lists/pull/1">#1</a>: fix: add GitHub API 429 retry, D1 query optimization, and bookmarklet…
 - <a href="https://github.com/dai/desktop/pull/1">#1</a>: Add Japanese README for Atuin Desktop
 - <a href="https://github.com/dai/LMS-locale/pull/1">#1</a>: chore: Update Japanese translations for presets and models

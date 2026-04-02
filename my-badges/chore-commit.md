@@ -4,12 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/VinaNihon/commit/f108d10ce1f0df96aaa89b00ed9d380af24d6761">f108d10</a>: chore: update dependencies and add favicon support
-- Bump versions for @astrojs/cloudflare, astro, @astrojs/check, and wrangler
-- Add favicon.svg to public directory
-- Update BaseLayout to include favicon links
-- Add footer with author links to index page
-- Enhance global styles for improved UI
+- <a href="https://github.com/dai/o-sumo/commit/57a65f719fe54c5ea1a68ddaeb2ec01de486f486">57a65f7</a>: chore(pwa): PWA依存追加
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
