@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dai/o-sumo/commit/57a65f719fe54c5ea1a68ddaeb2ec01de486f486">57a65f7</a>: chore(pwa): PWA依存追加
+- <a href="https://github.com/dai/VinaNihon/commit/4be7fb7ef0dec752eaa2a8dfd0579242fed9f2e5">4be7fb7</a>: chore: modified settings.json
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
