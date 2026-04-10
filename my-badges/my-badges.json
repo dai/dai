@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 149 times)\n2. co-authored-by: (used 86 times)\n3. claude (used 82 times)\n4. opus (used 82 times)\n5. 4.6 (used 82 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 159 times)\n2. co-authored-by: (used 92 times)\n3. claude (used 88 times)\n4. opus (used 88 times)\n5. 4.6 (used 88 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/4b1ee8efbe4b2a16de0db813971afc87c43cfccb\">4b1ee8e</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/3b43ea75566f8d8049a4de4899f2d7367dd7a382\">3b43ea7</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/4b1ee8efbe4b2a16de0db813971afc87c43cfccb\">4b1ee8e</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
