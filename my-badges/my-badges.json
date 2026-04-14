@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 159 times)\n2. co-authored-by: (used 92 times)\n3. claude (used 88 times)\n4. opus (used 88 times)\n5. 4.6 (used 88 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 178 times)\n2. co-authored-by: (used 106 times)\n3. claude (used 102 times)\n4. opus (used 102 times)\n5. 4.6 (used 102 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/0c3647ff53fa160c56657a2488efd2d31d7d2050\">0c3647f</a>\n- <a href=\"https://github.com/dai/ana-lists/commit/7002ff5e0619780483a390c063797f0ff9706907\">7002ff5</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/c168c942f8086b15e338ce363676be8f0b49493a\">c168c94</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/054bcee09b675fcf87cd3639e4a4ab59cf2bbe74\">054bcee</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270\">66c9626</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879\">060d9ff</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/79d70c25d069b883ed9a4bf4fa66c6b5833f2e84\">79d70c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/ana-lists/commit/0c3647ff53fa160c56657a2488efd2d31d7d2050\">0c3647f</a>\n- <a href=\"https://github.com/dai/ana-lists/commit/7002ff5e0619780483a390c063797f0ff9706907\">7002ff5</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/c168c942f8086b15e338ce363676be8f0b49493a\">c168c94</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/054bcee09b675fcf87cd3639e4a4ab59cf2bbe74\">054bcee</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270\">66c9626</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879\">060d9ff</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/bf354bf00b39201aa557dbe22022cd7751868519\">bf354bf</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/79d70c25d069b883ed9a4bf4fa66c6b5833f2e84\">79d70c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -164,7 +164,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/3b43ea75566f8d8049a4de4899f2d7367dd7a382\">3b43ea7</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/4b1ee8efbe4b2a16de0db813971afc87c43cfccb\">4b1ee8e</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/b4f17c91e0b601a5cddbfa63ed8cb07bb863686e\">b4f17c9</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/3b43ea75566f8d8049a4de4899f2d7367dd7a382\">3b43ea7</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/4b1ee8efbe4b2a16de0db813971afc87c43cfccb\">4b1ee8e</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -187,5 +187,12 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/42c3d246357a2dc0aa790febdb66a871da6e2bc4\">42c3d24</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6e9fc7b85954b126b7cc6120ec76d345da818dcf\">6e9fc7b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/70c0e7ce08d856a1ac6d54e08f4015811d219561\">70c0e7c</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/56bda84a51659c2881e325ef1ad9c3f6512bee19\">56bda84</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/01c526bf3c91032678cbf84af54f1a3415f32f29\">01c526b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\">ab646ed</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/16c9b0d27787e7e7d6d3f45d6f61989df2b8d587\">16c9b0d</a>: fix: remove unused elapsedDays variable in test\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/5b189fa0766a286a43dd05b29a4852b9174bbba1\">5b189fa</a>: fix: resolve test failures from ternary inversions and stale test expectations\n\n- Fix mode ternary in TorikumiDayPage \"一覧\" link (was swapping result/schedule paths)\n- Update TorikumiDayPage sorting test to not depend on specific rikishi names\n- Fix torikumi hub page tests for elapsed days and update cadence text\n- Fix page test to handle multiple links with same text (current vs past basho)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/4ce39e4c07c854cf910489d44506a3bed0a3e338\">4ce39e4</a>: fix: remove unused useLocation import from TorikumiDayPage\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/85fe12c2a3175cde891eb72d4673910377724c54\">85fe12c</a>: fix: route both May and March 2026 archive pages correctly\n\n- Fix parseTopLevelSlug to match 6 or 8 digit dateKeys\n- Add explicit path constants: MAY2026_*, MARCH2026_*\n- Add March 2026 routes in main.tsx\n- Update TorikumiHubPage and TorikumiDayPage to use correct archive based on URL path\n- Fix TopLevelSlugPage to redirect to correct archive hub\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/92a55b5903afc303d54e62fab211f9baee8b23e5\">92a55b5</a>: fix: route March 2026 archive pages, update homepage past basho section\n\n- Fix findArchiveDay to check MARCH2026_TORIKUMI_DATA for 202603XX dateKeys\n- Update homepage to show May 2026 as hero, March 2026 as past basho section\n- Add direct links to March 2026 pages: banduke/yotei/torikumi + each day\n- Keep all March 2026 /202603-XX pages accessible\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
   }
 ]
