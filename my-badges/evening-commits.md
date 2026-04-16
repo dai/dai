@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/dai/o-sumo/commit/ff9e9ee22985cd95548c6d1ba1f94b6c2f1afc33">ff9e9ee</a>
+- <a href="https://github.com/dai/o-sumo/commit/e8f374ec66ebac52097a77aeee10e72f613babdc">e8f374e</a>
 - <a href="https://github.com/dai/o-sumo/commit/ae468e759ea64f1cba81b436b046200e633ef56e">ae468e7</a>
 - <a href="https://github.com/dai/o-sumo/commit/735974ddaa62d8394f616d71c0528c3aba648cd0">735974d</a>
 
