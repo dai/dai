@@ -9,6 +9,7 @@ Commits:
 - <a href="https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270">66c9626</a>
 - <a href="https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879">060d9ff</a>
 - <a href="https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95">6dca212</a>
+- <a href="https://github.com/dai/o-sumo/commit/2575b5118c05c5b598e6c7acd220a5bbe55d440d">2575b51</a>
 - <a href="https://github.com/dai/o-sumo/commit/09179ec855518e05448ef9222298c8dab20170e6">09179ec</a>
 - <a href="https://github.com/dai/o-sumo/commit/fadebd760431542c63c34b4218826e7acd728233">fadebd7</a>
 - <a href="https://github.com/dai/o-sumo/commit/bf354bf00b39201aa557dbe22022cd7751868519">bf354bf</a>
