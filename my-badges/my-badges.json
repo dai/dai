@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 159 times)\n2. co-authored-by: (used 100 times)\n3. claude (used 90 times)\n4. opus (used 90 times)\n5. <noreply@anthropic.com> (used 90 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 159 times)\n2. co-authored-by: (used 100 times)\n3. merge (used 90 times)\n4. claude (used 90 times)\n5. opus (used 90 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
