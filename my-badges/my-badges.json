@@ -87,7 +87,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/4be7fb7ef0dec752eaa2a8dfd0579242fed9f2e5\">4be7fb7</a>: chore: modified settings.json",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/79d255d6ae5394fc7bf02bd4d78ed6f796507a9b\">79d255d</a>: chore: align repo tooling with Node 22",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
