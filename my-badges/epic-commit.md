@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/dai/VinaNihon/commit/dbb6b32814f99ece7237e46945fbdae0aaff45c5">dbb6b32</a>
 - <a href="https://github.com/dai/VinaNihon/commit/c168c942f8086b15e338ce363676be8f0b49493a">c168c94</a>
 - <a href="https://github.com/dai/VinaNihon/commit/054bcee09b675fcf87cd3639e4a4ab59cf2bbe74">054bcee</a>
 - <a href="https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270">66c9626</a>
