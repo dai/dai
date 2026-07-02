@@ -10,6 +10,10 @@ Commits:
 - <a href="https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270">66c9626</a>
 - <a href="https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879">060d9ff</a>
 - <a href="https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95">6dca212</a>
+- <a href="https://github.com/dai/o-sumo/commit/f7544b7bf4fecdbfdb7ef3f698d2078986f216fc">f7544b7</a>
+- <a href="https://github.com/dai/o-sumo/commit/d1e374fc65e454c8b07c02b7a5994a12cd2ac51c">d1e374f</a>
+- <a href="https://github.com/dai/o-sumo/commit/7413e00e4568b49ed56aacbea140b4e576ff9fdb">7413e00</a>
+- <a href="https://github.com/dai/o-sumo/commit/04ac29013623faef87b03f98fc0d764198c80219">04ac290</a>
 - <a href="https://github.com/dai/o-sumo/commit/7fccf1a66a379569577c62915ebb5e6041ce9302">7fccf1a</a>
 - <a href="https://github.com/dai/o-sumo/commit/fe3d4cecb458389fc0abd793caccb5323ed693a8">fe3d4ce</a>
 - <a href="https://github.com/dai/o-sumo/commit/f400f0c1eb01a3a4e0ba94676aa6cd95bac3820e">f400f0c</a>
