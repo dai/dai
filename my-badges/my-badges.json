@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 244 times)\n2. add (used 237 times)\n3. update (used 181 times)\n4. data (used 149 times)\n5. merge (used 143 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 260 times)\n2. add (used 237 times)\n3. update (used 192 times)\n4. data (used 149 times)\n5. merge (used 146 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
