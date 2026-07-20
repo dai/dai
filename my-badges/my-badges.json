@@ -94,7 +94,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 306 times)\n2. add (used 242 times)\n3. update (used 215 times)\n4. data (used 149 times)\n5. merge (used 147 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 320 times)\n2. add (used 242 times)\n3. update (used 222 times)\n4. dai (used 160 times)\n5. <12391+dai@users.noreply.github.com> (used 156 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -150,7 +150,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\"><strong>ab</strong>646edb8547f10c78bc044ca5370d8f8a3f03e4</a>",
+    "body": "- <a href=\"https://github.com/dai/o-sumo/commit/ababc49d7e10a3524e9e2cfe69acc93e56447324\"><strong>ab</strong>abc49d7e10a3524e9e2cfe69acc93e56447324</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
