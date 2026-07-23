@@ -49,13 +49,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 22 my own repositories.",
-    "body": "- <a href=\"https://github.com/dai/noty\">dai/noty</a>\n- <a href=\"https://github.com/dai/httpie\">dai/httpie</a>\n- <a href=\"https://github.com/dai/GiphyLabs\">dai/GiphyLabs</a>\n- <a href=\"https://github.com/dai/node-oniguruma\">dai/node-oniguruma</a>\n- <a href=\"https://github.com/dai/Boxel\">dai/Boxel</a>\n- <a href=\"https://github.com/dai/middleman-casper\">dai/middleman-casper</a>\n- <a href=\"https://github.com/dai/nicegram.github.io\">dai/nicegram.github.io</a>\n- <a href=\"https://github.com/dai/links.dev\">dai/links.dev</a>\n- <a href=\"https://github.com/dai/suki\">dai/suki</a>\n- <a href=\"https://github.com/dai/remote-mcp-server-authless\">dai/remote-mcp-server-authless</a>\n- <a href=\"https://github.com/dai/LMS-locale\">dai/LMS-locale</a>\n- <a href=\"https://github.com/dai/Folo\">dai/Folo</a>\n- <a href=\"https://github.com/dai/anubis\">dai/anubis</a>\n- <a href=\"https://github.com/dai/desktop\">dai/desktop</a>\n- <a href=\"https://github.com/dai/jules-awesome-list\">dai/jules-awesome-list</a>\n- <a href=\"https://github.com/dai/Zero\">dai/Zero</a>\n- <a href=\"https://github.com/dai/djot\">dai/djot</a>\n- <a href=\"https://github.com/dai/cc-switch\">dai/cc-switch</a>\n- <a href=\"https://github.com/dai/tanstack-ai\">dai/tanstack-ai</a>\n- <a href=\"https://github.com/dai/o-sumo\">dai/o-sumo</a>\n- <a href=\"https://github.com/dai/VinaNihon\">dai/VinaNihon</a>\n- <a href=\"https://github.com/dai/shikona\">dai/shikona</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
@@ -77,129 +70,10 @@
     "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
   },
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/dai/agent_manager_jp/commit/a53634bdcaf3d956b4a1d99bd5660df2c9ad52b8\"><strong>a</strong>53634bdcaf3d956b4a1d99bd5660df2c9ad52b8</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/dbb6b32814f99ece7237e46945fbdae0aaff45c5\">dbb6b32</a>: chore(deps): bump dependencies to latest stable\n\n- wrangler ^4.74.0 -> ^4.103.0\n- astro ^6.0.5 -> ^6.4.8\n- @astrojs/cloudflare ^13.1.2 -> ^13.7.0\n- @astrojs/check ^0.9.8 -> ^0.9.9\n- tailwindcss / @tailwindcss/vite ^4.2.1 -> ^4.3.1\n- @fontsource/geist-mono ^5.2.7 -> ^5.2.8\n- @fontsource/noto-sans ^5.2.7 -> ^5.2.10\n\nTypeScript is held at ^5.9.3: the 6.x line merged lib.dom.iterable\ninto lib.dom, which collides with the SpeechRecognitionEvent /\nSpeechRecognitionErrorEvent declarations in src/scripts/translator.ts.\nRe-evaluate when those globals are removed.\n\nVerified: npm run check (0 errors), npm run build, astro dev (HTTP 200).",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 356 times)\n2. add (used 242 times)\n3. update (used 240 times)\n4. dai (used 196 times)\n5. <12391+dai@users.noreply.github.com> (used 192 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "public-keys-1",
     "tier": 1,
     "desc": "I have one public key",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/35e07f807b05475a6568476588e86216410eb3f0\">35e07f8</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/om-web/commit/f1063edc4d5cc11e181279faf2abacaf65396635\">f1063ed</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/dbb6b32814f99ece7237e46945fbdae0aaff45c5\">dbb6b32</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/c168c942f8086b15e338ce363676be8f0b49493a\">c168c94</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/054bcee09b675fcf87cd3639e4a4ab59cf2bbe74\">054bcee</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/66c9626fe9d980cd18e8507ba520d74f57e52270\">66c9626</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/060d9ffbd4f2288c5725541a079d6c3498ca2879\">060d9ff</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6dca2127b1a9d4a7b7059d3603fb0391634def95\">6dca212</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/d6eb1994715369a16bd046021c719c9a3c28ab4c\">d6eb199</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/85da2b3649013baeb75686c5235e72a1af7c56f2\">85da2b3</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/9940ab813c9c28e1d751da2da3469adc130cbc42\">9940ab8</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/48259d4dd6aaf4c1396ac9eb327bc7262ec649b1\">48259d4</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/d8bf4647c8c4873cbb4cf7eba4dd612a6a3d8bed\">d8bf464</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/e2546d31af74779390d0d0527c64813ce13b2579\">e2546d3</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/06d115a2ce271b7c25622b49e537969fc6dd2838\">06d115a</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/ca459b3e655bab76b08358e24b5fe17705603ce1\">ca459b3</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/46c0d5a79b27df2d67fb818be6b901d14859af26\">46c0d5a</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/f303b526d4493ac98660b59cc168eed16dcd0acc\">f303b52</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/b0e8dea23f450e5c9063a27f7af61092df46c25b\">b0e8dea</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/cbd26674e44f6c3a3715e76e66de16c3b00280aa\">cbd2667</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/4c8ab79ccd9424597a03000e483c5f172faf79cc\">4c8ab79</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/dcb31caf463638d637567428100cbf172c944c14\">dcb31ca</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/20e77263446f2afffb0f43b9945fc588e27eed7b\">20e7726</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/866ba53438377279e972533c9199eed054fd3302\">866ba53</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/f7544b7bf4fecdbfdb7ef3f698d2078986f216fc\">f7544b7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/d1e374fc65e454c8b07c02b7a5994a12cd2ac51c\">d1e374f</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/7413e00e4568b49ed56aacbea140b4e576ff9fdb\">7413e00</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04ac29013623faef87b03f98fc0d764198c80219\">04ac290</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/7fccf1a66a379569577c62915ebb5e6041ce9302\">7fccf1a</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/fe3d4cecb458389fc0abd793caccb5323ed693a8\">fe3d4ce</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/f400f0c1eb01a3a4e0ba94676aa6cd95bac3820e\">f400f0c</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/dc1a09dbfea3458c2c5ea4e4dae9cfdbf439332f\">dc1a09d</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a106c62ab2599f088026a5c074af36322727cb9a\">a106c62</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a42edd0bf6c73ea06d22ba2d4820f494697213b4\">a42edd0</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/bfb46ffce4afa895f56380a1341ab8cf3801f053\">bfb46ff</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/2575b5118c05c5b598e6c7acd220a5bbe55d440d\">2575b51</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/09179ec855518e05448ef9222298c8dab20170e6\">09179ec</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/fadebd760431542c63c34b4218826e7acd728233\">fadebd7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/bf354bf00b39201aa557dbe22022cd7751868519\">bf354bf</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/79d70c25d069b883ed9a4bf4fa66c6b5833f2e84\">79d70c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/04553f043f29b79c65d42ffe950d791262e99b43\">04553f0</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/ae468e759ea64f1cba81b436b046200e633ef56e\">ae468e7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/735974ddaa62d8394f616d71c0528c3aba648cd0\">735974d</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/3487683e914a4e0dacb5f278fb0ccba4d506fd5b\">3487683</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/dd16b59f1162c9d916ab477ee8ab3bbf2c951e09\">dd16b59</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/47376991956d8196582faccdf752039859e7a947\">4737699</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a4f3b94f143b9e71e866f2dd2ec7710425cde195\">a4f3b94</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/f4a7167ed66edf1a7f452043467bab48c0c419e0\">f4a7167</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/9985ed70d561b1c682a761b0c5ae27219d665b36\">9985ed7</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/45f18df2034cd2229553aa3b93e4c4bc4694f570\">45f18df</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/5c04845f9b1c498ab8626917ab97fea48a3bdcf7\">5c04845</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/fcd6db9f9bce79bbb9e9149b269870334a82a4f8\">fcd6db9</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a8f67330bb9b0fc565776dfe23410f16d5d909cc\">a8f6733</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/a07da675c24df239a8913522f271a283491e3a02\">a07da67</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/4a403c2c1e201fe3145215b94194ce03db354a29\">4a403c2</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/46cec3032a6ac9cff99480873f971f71a2271a17\">46cec30</a>\n- <a href=\"https://github.com/dai/o-sumo/commit/ff9e9ee22985cd95548c6d1ba1f94b6c2f1afc33\">ff9e9ee</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/bdb4e9e8ccb9f88cefc05e5e380f321d8c7d3f0f\">bdb4e9e</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/b0ec239f42ddee95683cd0a80829814344d0e5f9\">b0ec239</a>: fix: use Web Share API for LINE button to share translation text\n\nPreviously used window.open() with LINE social plugin URL which caused\niOS Safari to share the page URL instead of the translation text.\nNow uses navigator.share() for native share sheet with proper text sharing.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/ccf4a0f669ee4e8f1b5e91534f900ec51f336af5\">ccf4a0f</a>: fix: use closest() for locale toggle click and add flag icons\n\n- Replace globe SVG icons with Japan and Vietnam flag icons for locale toggle\n- Fix locale toggle click handler using closest() to properly handle SVG child elements\n- Add debug console.log that was left in applyLocale (removed)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/dai/o-sumo/commit/ababc49d7e10a3524e9e2cfe69acc93e56447324\"><strong>ab</strong>abc49d7e10a3524e9e2cfe69acc93e56447324</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/b4f17c91e0b601a5cddbfa63ed8cb07bb863686e\">b4f17c9</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/3b43ea75566f8d8049a4de4899f2d7367dd7a382\">3b43ea7</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/4b1ee8efbe4b2a16de0db813971afc87c43cfccb\">4b1ee8e</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/bc7172687bc95c5d1a0645139b3cfee232eca656\">bc71726</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/e6c7042c184676b23d752d99641f901a27768022\">e6c7042</a>: fix: add pages worker index entry after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/780a1d938ee7801f40b2638bd05922529deab16d\">780a1d9</a>: fix: remove redirected pages deploy config after build\n- <a href=\"https://github.com/dai/VinaNihon/commit/0c86f7f83c4c98dedeb56f4709297683f66537c8\">0c86f7f</a>: fix: remove generated wrangler config from pages build",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "fix-6",
-    "tier": 5,
-    "desc": "I did 6 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/9019ececb2125ba10a113b08a6bf5e4b4a7dbe56\">9019ece</a>: fix: write proper Vietnamese diacritics in UI copy strings\n\nAll Vietnamese UI strings were written without diacritical marks.\nReplace with proper Vietnamese orthography using appropriate\ndiacritics (dấu sắc, huyền, hỏi, ngã, nặng) for each character.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/679c89ed15c61096b68736a56dfaf5731be49765\">679c89e</a>: fix: add Noto Sans Vietnamese weight 400 for proper diacritics\n\nvietnamese.css only includes weight 300. Body text uses font-weight 400/600\nbut no Vietnamese 400 was loaded, causing font fallback to miss Vietnamese glyphs.\nAdd vietnamese-400.css to match regular text weight.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/d3373b1436633db252466a2ccc09c486d2b43c79\">d3373b1</a>: fix: remove Geist Sans from font stack entirely\n\nGeist Sans has no unicode-range restriction and blocks Noto Sans Vietnamese\nfrom rendering diacritics. Remove Geist Sans from --font-sans so Noto Sans\ncovers all characters with proper subsets.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/79da6756577d9270457666849c4cbecb50ad5982\">79da675</a>: fix: use Noto Sans without Geist Sans for Vietnamese UI locale\n\nGeist Sans has no unicode-range restriction so it claims ALL characters,\npreventing Noto Sans Vietnamese (with explicit U+1EA0-1EF9 range)\nfrom ever being matched. For html[lang=\"vi\"], use Noto Sans first\nso Vietnamese diacritics render correctly.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/80f4637f1355cc512938f1711eeef4014e0f7ad4\">80f4637</a>: fix: remove html[lang=\"vi\"] font override that broke Vietnamese rendering\n\nNoto Sans JP is Japanese-only and was blocking Vietnamese glyphs.\nThe vietnamese.css subset already extends Noto Sans with proper diacritics.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/VinaNihon/commit/29c266a6cfc80338017529c995b2c9edaa009844\">29c266a</a>: fix: add Noto Sans Vietnamese subset for proper diacritics rendering\n\nAdd @fontsource/noto-sans/vietnamese.css to cover Vietnamese glyphs\n(U+1EA0-1EF9) when UI locale is set to Vietnamese.\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
-    "image": "https://my-badges.github.io/my-badges/fix-6.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/VinaNihon/commit/42c3d246357a2dc0aa790febdb66a871da6e2bc4\">42c3d24</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/6e9fc7b85954b126b7cc6120ec76d345da818dcf\">6e9fc7b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/70c0e7ce08d856a1ac6d54e08f4015811d219561\">70c0e7c</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/56bda84a51659c2881e325ef1ad9c3f6512bee19\">56bda84</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/01c526bf3c91032678cbf84af54f1a3415f32f29\">01c526b</a>\n- <a href=\"https://github.com/dai/VinaNihon/commit/ab646edb8547f10c78bc044ca5370d8f8a3f03e4\">ab646ed</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "fix-5",
-    "tier": 4,
-    "desc": "I did 5 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/16c9b0d27787e7e7d6d3f45d6f61989df2b8d587\">16c9b0d</a>: fix: remove unused elapsedDays variable in test\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/5b189fa0766a286a43dd05b29a4852b9174bbba1\">5b189fa</a>: fix: resolve test failures from ternary inversions and stale test expectations\n\n- Fix mode ternary in TorikumiDayPage \"一覧\" link (was swapping result/schedule paths)\n- Update TorikumiDayPage sorting test to not depend on specific rikishi names\n- Fix torikumi hub page tests for elapsed days and update cadence text\n- Fix page test to handle multiple links with same text (current vs past basho)\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/4ce39e4c07c854cf910489d44506a3bed0a3e338\">4ce39e4</a>: fix: remove unused useLocation import from TorikumiDayPage\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/85fe12c2a3175cde891eb72d4673910377724c54\">85fe12c</a>: fix: route both May and March 2026 archive pages correctly\n\n- Fix parseTopLevelSlug to match 6 or 8 digit dateKeys\n- Add explicit path constants: MAY2026_*, MARCH2026_*\n- Add March 2026 routes in main.tsx\n- Update TorikumiHubPage and TorikumiDayPage to use correct archive based on URL path\n- Fix TopLevelSlugPage to redirect to correct archive hub\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>\n- <a href=\"https://github.com/dai/o-sumo/commit/92a55b5903afc303d54e62fab211f9baee8b23e5\">92a55b5</a>: fix: route March 2026 archive pages, update homepage past basho section\n\n- Fix findArchiveDay to check MARCH2026_TORIKUMI_DATA for 202603XX dateKeys\n- Update homepage to show May 2026 as hero, March 2026 as past basho section\n- Add direct links to March 2026 pages: banduke/yotei/torikumi + each day\n- Keep all March 2026 /202603-XX pages accessible\n\nCo-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>",
-    "image": "https://my-badges.github.io/my-badges/fix-5.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" once.",
-    "body": "- <a href=\"https://github.com/dai/o-sumo/commit/2269905a9fe01b41eb9ffdead4ec6a3a4abfc918\">2269905a9fe01b41eb9ff<strong>dead</strong>4ec6a3a4abfc918</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/dai/o-sumo/commit/84a67fa42b8cc9ed458ce7a69f0b5c29e05aee4f\">84a67fa</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   }
 ]
