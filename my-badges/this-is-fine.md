@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/dai/VinaNihon/pull/2">#2</a>: Streamline translation flow and enable preview deployment
+- <a href="https://github.com/dai/o-sumo/pull/327">#327</a>: chore: automated news feed updates
 - <a href="https://github.com/dai/desktop/pull/1">#1</a>: Add Japanese README for Atuin Desktop
 - <a href="https://github.com/dai/LMS-locale/pull/1">#1</a>: chore: Update Japanese translations for presets and models
 
