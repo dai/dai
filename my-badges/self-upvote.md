@@ -9,6 +9,7 @@
 * <a href="https://github.com/dai/o-sumo/pull/32">👍</a>
 * <a href="https://github.com/dai/o-sumo/pull/34">👀</a>
 * <a href="https://github.com/openclaw/openclaw/pull/8544">👍</a>
+* <a href="https://github.com/dai/o-sumo/pull/417#issuecomment-5290138058">👀</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
